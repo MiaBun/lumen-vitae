@@ -9,10 +9,10 @@
     "modId": "aiimprovements",
     "version": "0.5.2"
   },
-  "alltheleaks-1.1.0+1.20.1-forge.jar": {
-    "jarName": "alltheleaks-1.1.0+1.20.1-forge.jar",
+  "alltheleaks-1.1.1+1.20.1-forge.jar": {
+    "jarName": "alltheleaks-1.1.1+1.20.1-forge.jar",
     "modId": "alltheleaks",
-    "version": "1.1.0+1.20.1-forge"
+    "version": "1.1.1+1.20.1-forge"
   },
   "AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar": {
     "jarName": "AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar",
@@ -49,10 +49,10 @@
     "modId": "controlling",
     "version": "12.0.2"
   },
-  "CrashAssistant-forge-1.19-1.20.1-1.10.20.jar": {
-    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.20.jar",
+  "CrashAssistant-forge-1.19-1.20.1-1.10.21.jar": {
+    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.21.jar",
     "modId": "crash_assistant",
-    "version": "1.10.20"
+    "version": "1.10.21"
   },
   "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar": {
     "jarName": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
@@ -124,10 +124,25 @@
     "modId": "ferritecore",
     "version": "6.0.1"
   },
+  "ftb-filter-system-forge-20.0.1.jar": {
+    "jarName": "ftb-filter-system-forge-20.0.1.jar",
+    "modId": "ftbfiltersystem",
+    "version": "20.0.1"
+  },
   "ftb-library-forge-2001.2.10.jar": {
     "jarName": "ftb-library-forge-2001.2.10.jar",
     "modId": "ftblibrary",
     "version": "2001.2.10"
+  },
+  "ftb-quests-forge-2001.4.16.jar": {
+    "jarName": "ftb-quests-forge-2001.4.16.jar",
+    "modId": "ftbquests",
+    "version": "2001.4.16"
+  },
+  "ftb-teams-forge-2001.3.1.jar": {
+    "jarName": "ftb-teams-forge-2001.3.1.jar",
+    "modId": "ftbteams",
+    "version": "2001.3.1"
   },
   "ftb-ultimine-forge-2001.1.7.jar": {
     "jarName": "ftb-ultimine-forge-2001.1.7.jar",
