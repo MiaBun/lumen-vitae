@@ -149,6 +149,11 @@
     "modId": "ftbultimine",
     "version": "2001.1.7"
   },
+  "ftb-xmod-compat-forge-2.1.3.jar": {
+    "jarName": "ftb-xmod-compat-forge-2.1.3.jar",
+    "modId": "ftbxmodcompat",
+    "version": "2.1.3"
+  },
   "ImmediatelyFast-Forge-1.5.2+1.20.4.jar": {
     "jarName": "ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
     "modId": "immediatelyfast",

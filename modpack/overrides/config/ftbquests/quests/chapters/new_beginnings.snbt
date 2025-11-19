@@ -3,9 +3,541 @@
 	default_quest_shape: ""
 	filename: "new_beginnings"
 	group: ""
+	hide_quest_until_deps_complete: true
+	hide_quest_until_deps_visible: true
+	icon: "minecraft:grass_block"
 	id: "4F42227F8EEF4781"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "53BBA99EAE29C2EE"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "3F69F2E406A0A902"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "or(item_tag(minecraft:logs))"
+					}
+				}
+				title: "Gather logs"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["53BBA99EAE29C2EE"]
+			hide_until_deps_visible: true
+			id: "44B3B150BD3FAF8B"
+			tasks: [{
+				icon: "minecraft:oak_planks"
+				id: "1274F0386DC6BEB6"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "or(item_tag(minecraft:planks))"
+					}
+				}
+				title: "Craft planks"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["44B3B150BD3FAF8B"]
+			hide_until_deps_visible: true
+			id: "3FEE98DE4E98DC40"
+			tasks: [{
+				id: "337A5D3B6B7F1959"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "Craft a crafting table"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3FEE98DE4E98DC40"]
+			hide_until_deps_visible: true
+			id: "00EB473FF81B9914"
+			tasks: [{
+				id: "26C2E93A5D5B7D7C"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			title: "Craft a chest!"
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3FEE98DE4E98DC40"]
+			hide_until_deps_visible: true
+			id: "7443E4ABA98CB10E"
+			tasks: [{
+				id: "2E0132AB4AC04108"
+				item: {
+					Count: 1
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a wooden pickaxe"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7443E4ABA98CB10E"]
+			hide_until_deps_visible: true
+			id: "0E60C539953373C9"
+			tasks: [{
+				id: "40C0B0C564C1D907"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			title: "Gather cobblestone"
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0E60C539953373C9"]
+			hide_until_deps_visible: true
+			id: "117712B5ECB1ED7D"
+			tasks: [{
+				id: "1506F4E6DF397C7E"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			title: "Craft a furnace"
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0E60C539953373C9"]
+			hide_until_deps_visible: true
+			id: "3B42B1B56D21CC25"
+			tasks: [{
+				id: "45F2EE29B9AD43E7"
+				item: {
+					Count: 1
+					id: "minecraft:stone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a stone pickaxe"
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3B42B1B56D21CC25"]
+			hide_until_deps_visible: true
+			id: "50092CB91B6675DA"
+			tasks: [{
+				id: "71CF465A6AA3D4FC"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			title: "Gather iron"
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["50092CB91B6675DA"]
+			hide_until_deps_visible: true
+			id: "477AA7192E064E98"
+			tasks: [{
+				id: "748A7A8CAC35BDB4"
+				item: {
+					Count: 1
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a iron pickaxe"
+			x: 10.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["50092CB91B6675DA"]
+			hide_until_deps_visible: true
+			id: "66B0500202C97F00"
+			tasks: [{
+				id: "428AF4BE6FBC5244"
+				item: {
+					Count: 1
+					id: "minecraft:iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a iron sword"
+			x: 10.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"66B0500202C97F00"
+				"477AA7192E064E98"
+			]
+			hide_until_deps_visible: true
+			id: "49FCF3A1981FED19"
+			tasks: [{
+				id: "5E70593805BC4E17"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			title: "Gather diamonds"
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["49FCF3A1981FED19"]
+			hide_until_deps_visible: true
+			id: "34E0989FA6D23FBA"
+			tasks: [{
+				id: "3DF2767FF6A81F63"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a diamond pickaxe"
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["34E0989FA6D23FBA"]
+			hide_until_deps_visible: true
+			id: "52342FCE52E6C704"
+			tasks: [{
+				id: "3CA6F8AC34D0745F"
+				item: "minecraft:obsidian"
+				type: "item"
+			}]
+			title: "Gather obsidian"
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0E60C539953373C9"]
+			hide_until_deps_visible: true
+			id: "072853773F7E87E4"
+			tasks: [{
+				id: "04326C7513B75175"
+				item: {
+					Count: 1
+					id: "minecraft:stone_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a stone hoe"
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["34E0989FA6D23FBA"]
+			hide_until_deps_visible: true
+			id: "7868894228EAD44E"
+			tasks: [
+				{
+					id: "44D6B4E243562E2E"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4C3B0A8C8E09FE98"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "652F0259F2EBFE3C"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2C8B82A1C917D905"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3446103A5BC8FB0B"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Gearing up!"
+			x: 13.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52342FCE52E6C704"]
+			hide_until_deps_visible: true
+			id: "0717251773AC2098"
+			tasks: [{
+				id: "2A5DF3816F2FC2E6"
+				item: "minecraft:enchanting_table"
+				type: "item"
+			}]
+			title: "Craft a enchanting table"
+			x: 15.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["52342FCE52E6C704"]
+			hide_until_deps_visible: true
+			id: "56D10457896AB637"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "10DE5265656C2477"
+				title: "Visit the nether"
+				type: "dimension"
+			}]
+			x: 16.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["56D10457896AB637"]
+			hide_until_deps_visible: true
+			icon: "minecraft:blaze_rod"
+			id: "054D576858DF3E2D"
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "7E1790CF58B503D3"
+				title: "Kill a blaze"
+				type: "kill"
+				value: 5L
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["054D576858DF3E2D"]
+			hide_until_deps_visible: true
+			icon: "minecraft:ender_pearl"
+			id: "60BFB73B9B2D62C2"
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "76710D71E9E8D14B"
+				title: "Kill a enderman"
+				type: "kill"
+				value: 5L
+			}]
+			x: 19.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["56D10457896AB637"]
+			hide_until_deps_visible: true
+			id: "24AB9E19B5BE4BB8"
+			tasks: [
+				{
+					id: "69C1604B62CDA863"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6122A9C220ED2F5D"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "54A57C16C2B75954"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38CD870BF3907DCD"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7576DDC3B66C7F57"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Getting a much needed upgrade"
+			x: 16.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["60BFB73B9B2D62C2"]
+			hide_until_deps_visible: true
+			id: "358468D0417B586D"
+			tasks: [{
+				id: "3CCC510A76905B28"
+				item: "minecraft:ender_eye"
+				type: "item"
+			}]
+			title: "Craft a eye of ender"
+			x: 21.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["358468D0417B586D"]
+			id: "19F4CFF3260129D3"
+			tasks: [{
+				icon: "minecraft:end_portal_frame"
+				id: "2D37AA883A517543"
+				structure: "minecraft:stronghold"
+				title: "Find the stronghold"
+				type: "structure"
+			}]
+			x: 22.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19F4CFF3260129D3"]
+			hide_until_deps_visible: true
+			id: "7281353A6DE8C28E"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:end_stone"
+				id: "77CFB4D751C31EE7"
+				title: "Visit the end"
+				type: "dimension"
+			}]
+			x: 24.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7281353A6DE8C28E"]
+			hide_until_deps_visible: true
+			id: "40321DAE5F565130"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_egg"
+				id: "6CB0BECEF4882502"
+				title: "Kill the ender dragon"
+				type: "kill"
+				value: 1L
+			}]
+			x: 25.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["40321DAE5F565130"]
+			hide_until_deps_visible: true
+			id: "7AD4234268C5F6A9"
+			tasks: [{
+				id: "20DDC31DAE527151"
+				item: {
+					Count: 1
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Find a elytra"
+			x: 27.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["40321DAE5F565130"]
+			description: [
+				"So you might be wondering,"
+				"what now?"
+				"well..."
+				"that's up to you!"
+				"you can progress through farming, technology or magic!"
+				"you can also build beautiful buildings!!"
+				"or... you can discover the meaning of life..."
+			]
+			hide_until_deps_visible: true
+			icon: "minecraft:dragon_head"
+			id: "258F4DCBDAD28569"
+			tasks: [{
+				id: "6A59671020CF6CCE"
+				title: "The end?"
+				type: "checkmark"
+			}]
+			x: 27.0d
+			y: -1.5d
+		}
+	]
 	title: "new beginnings"
 }
