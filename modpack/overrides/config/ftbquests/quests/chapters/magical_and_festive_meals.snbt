@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magical_and_festive_meals"
+	group: "5117C8F14FA1129E"
+	id: "07E67506AAD54F5A"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "magical and festive meals"
+}

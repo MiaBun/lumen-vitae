@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "baking_and_brewing"
+	group: "5117C8F14FA1129E"
+	id: "2A9ADFE752D49C5A"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "baking and brewing"
+}

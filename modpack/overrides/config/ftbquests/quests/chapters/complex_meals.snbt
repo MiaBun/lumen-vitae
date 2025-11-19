@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "complex_meals"
+	group: "5117C8F14FA1129E"
+	id: "5F2C64646582973D"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "complex meals"
+}

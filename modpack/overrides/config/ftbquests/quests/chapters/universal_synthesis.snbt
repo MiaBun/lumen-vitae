@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "universal_synthesis"
+	group: "3E121D80025B80AD"
+	id: "2333E5FB90560B06"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "universal synthesis"
+}

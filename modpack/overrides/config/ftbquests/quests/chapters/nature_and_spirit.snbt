@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nature_and_spirit"
+	group: "3E121D80025B80AD"
+	id: "761DA2276AA7EF50"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "nature and spirit"
+}

@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "basic_farming_and_cooking"
+	group: "5117C8F14FA1129E"
+	id: "42A585C837C9684D"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "basic farming and cooking"
+}

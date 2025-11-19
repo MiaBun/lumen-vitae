@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "arcana_ascension"
+	group: "3E121D80025B80AD"
+	id: "7A52692EC49A2EB3"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "arcana ascension"
+}

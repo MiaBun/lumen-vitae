@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "stone_age"
+	group: "14ADB2492335D9A2"
+	id: "48D55D0B6AE225DA"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "stone age"
+}
