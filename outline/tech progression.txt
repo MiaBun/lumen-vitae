@@ -1,0 +1,842 @@
+stone age:
+
+stone age introduces you to tinkers constructs alloy smelting and the basic gregtech tools like the hammer, it also introduces you to the coke oven
+mods:
+
+immersive engineering - coke oven, alloy kiln, crude blast furnace, improved blast furnace
+tinkers constructs
+productive bees - start 
+
+steam age:
+
+mechanical age, purely steam, kinetic and pressure powered, industrial dawn hand-crafted tech, early mechanical power like boilers and turbines
+
+steam burners and turbines
+
+materials:
+
+rubber
+red alloy ingot
+bronze
+coal
+charcoal
+sulfur
+water
+steam
+coke
+
+circuits:
+
+vacuum tube (ulv) (end goal) 
+steam boiler
+steam rock crusher
+steam furnace
+steam forge hammer
+steam macerator
+steam compressor
+steam extractor
+steam alloy melter
+mods:
+
+create
+create deco
+create slice & dice
+create copycats+
+create enchantment industry
+create oxidized
+create power loader
+create ultimate factory 
+
+LUV:
+
+8EU/t, electric awakening, first generators, wires, circuits and automation with real electricity
+
+turbines, dynamo, hand-crank, windmill
+
+extension off steam age, first few machines, basic introduction to FE energy and transformers
+
+materials:
+
+wrought iron
+iron
+lead
+tin
+copper
+coal dust
+redstone dust
+distilled water
+
+circuits:
+
+basic electronic circuit (lv) (end goal) 
+mods:
+
+create crafts & additions
+create new age - motors
+immersive engineering - water wheel, windmill
+pneumaticcraft - till crude oil
+alex's caves - magnetic caves (new age magnets) 
+
+LV:
+
+32EU/t, industrialization, large-scale ore processing, first machines, basic automation
+
+combustion generators, solar panels, biogas engines
+
+materials:
+
+steel
+nickel
+brass
+silicon dust
+carbon 
+redstone
+sulfuric acid
+hydrogen
+oxygen
+
+coil:
+
+cupronickel
+
+circuits:
+
+good electronic circuit (mv) (end goal) 
+machines:
+
+basic steam turbine generator
+large bronze boiler
+basic wiremill
+basic lathe
+basic bender
+basic rock crusher
+basic macerator
+basic forge hammer
+basic centrifuge
+basic arc furnace
+basic electrolyzer
+basic assembler
+basic ore washer
+basic thermal centrifuge
+basic chemical bath
+basic chemical reactor
+basic mixer
+multiblocks:
+
+electric blast furnace
+solar factory 
+mods:
+
+create new age - solar panels
+cyclic - mostly the redstone utils (detector block , clock, timer, sequencer, wireless redstone transmitter, signal strength meter, randomizer, delay and item user, item collector, harvester
+immersive engineering - thermoelectric generator, lightning coil, metal press, crusher, sawmill, mixer, bottling machine, fermenter, squeezer, refinery, assembler, automated workbench, arc furnace, excavator
+mekanism - heat generator, bio-generator, solar panels, wind mill, basic machines 
+
+MV:
+
+128EU/t, automation era, factory lines, first chemical reactions, fluid handling
+
+diesel generators, gas turbine, steam reformer
+
+materials:
+
+aluminum
+kanthal
+annealed copper
+vanadium steel
+silicon
+stainless steel
+chrome
+scarbon
+lithium
+nitrogen
+chlorine
+
+coil:
+
+kanthal
+
+circuits:
+
+advanced integrated circuit (hv) (end goal) 
+machines:
+
+advanced machines introduced, first laser engraver, first cutter, basic circuit assembler
+
+multiblocks:
+
+algae farm
+water purification plant
+clarifier purification unit
+mods:
+
+create diesel generators
+ender IO - conduits, glass
+immersive engineering - diesel generator
+mekanism - advanced machines
+mekanism generators - diesel generator
+pneumaticcraft - till plastic
+productive bees - centrifuge etc 
+
+HV:
+
+512EU/t, chemistry & power, oil processing, plastic, circuits, early robotics
+
+large diesel turbines, high-pressure steam turbines, gas burning arrays
+
+materials:
+
+stainless steel
+plastic
+nickel zinc ferrite
+blue alloy
+titanium
+chrome
+ruby
+sapphire
+platinum
+fluorine
+argon
+
+glass:
+
+cleanroom glass
+
+circuit:
+
+nand chip (ulv)
+microchip processor (lv)
+microprocessor (mv)
+microprocessor assembly (hv)
+microprocessor supercomputer (ev) (endgoal) 
+machines:
+
+advanced 2 machines
+multiblocks:
+
+cleanroom
+apiary
+greenhouse
+kitchen
+exxonMobil chemical plant 
+mods:
+
+ad astra - moon
+applied botanics
+applied cooking
+applied flux
+applied mekanistics
+applied pneumatics
+applied schematicannon
+appliedE
+ars energistique
+ae2
+cc:tweaked
+industrial foregoing
+mekanism - elite machines
+pneumaticcraft - everything after plastic
+thermal cultivation
+thermal dynamics
+thermal expansion
+thermal foundation
+thermal innovation
+thermal integration 
+
+EV:
+
+2,048EU/t, advanced industry, cleanroom, complex chemistry, advanced alloys
+
+uranium/thorium fission reactor, MOX fuel
+
+materials:
+
+mercury barium calcium cuprate
+nichrome
+black steel
+platinum
+titanium
+tungstensteel
+tungsten
+iridium
+osmium
+hydrofluoric acid
+nitric acid
+
+coil:
+
+nichrome
+
+circuits:
+
+microprocessor mainframe (IV) (endgoal) 
+machines:
+
+advanced 3 machines 
+multiblocks:
+
+vacuum freezer
+distillation tower
+cracker
+fluid drilling rig
+pyrolyse oven
+sparge tower
+nuclear salt processing plant
+ozonation purification unit 
+mods:
+
+ad astra - mars
+advanced peripherals
+create new age - nuclear reactor
+extreme reactors
+mekanism - ultimate machines
+mekanism generators - fission reactor, turbine, induction matrix
+powah - reactors (all) & energizer orb
+thermal extra
+thorium reactors
+alex's caves - toxic caves (uranium source)
+productive bees - heated centrifuge and genes 
+
+IV:
+
+8,192EU/t, automation mastery, robotics, super alloys, mass production
+
+breeder reactors, fluid-fueled fission, hydrogen fusion
+
+materials:
+
+tungstensteel
+vanadium gallium
+tungsten
+hss-g
+ruthenium
+ruridt
+naquadah dust
+ruthenium dust
+sodium persulfate
+no2
+
+coil:
+
+rtm alloy
+hss-g
+
+glass:
+
+laminated glass
+
+circuits:
+
+microchip processor (lv)
+nanoprocessor (hv)
+nanoprocessor assembly (ev)
+nanoprocessor supercomput (iv)
+nanoprocessor mainframe (luv) (endgoal) 
+machines:
+
+elite machines
+bacterial breeding vat 
+multiblocks:
+
+large chemical reactor
+mods:
+
+ad astra - mercury, venus
+ad astra extra - deimos, phobos
+extreme reactors - fluid fuels
+industrial foregoing extra upgrades
+mekanism generators - thermoelectric boiler
+thermal endergy
+builders gadgets 
+
+LUV:
+
+32,768EU/t, high-tech expansion, nanotech, quantum components, fusion prep
+
+deuterium-tritium fusion reactor
+
+materials:
+
+rhodium plated palladium
+osmiridium
+ruridit
+watertight steel
+maraging steel 300
+stellite-100
+incolony ma-956
+hsla steel
+zeron-100
+hastelloy x
+titanium tungsten carbide
+hastelloy c-276
+rhodium-palladium alloy
+tritanium
+niobium
+gallium
+titanium
+hydrochloric acid
+helium
+
+coil:
+
+molybdenum disilicide
+
+glass:
+
+circuits:
+
+quantum processor (ev) 
+quantum processor assembly (iv)
+quantum processor supercomputer (luv)
+quantum processor mainframe (zpm) (endgoal) 
+machines:
+
+elite 2 machines
+scanner 
+multiblocks:
+
+assembly line
+alloy blast smelter
+bacterial hydrocarbon
+bacterial runic mutator
+tesla tower
+PH neutralization purification unit 
+cyclotron
+
+parallel:
+
+large arc smelter
+large brewing vat
+large chemical bath
+large extraction machine
+large fractionating distillery
+large crystallization chamber
+large solidification array
+large wire factory
+large extrusion machine
+large material press
+large assembling factory
+large circuit assembling facility
+large sifting funnel
+large centrifugal unit
+large electrolysis chamber
+large electromagnet
+large maceration tower
+large mixing vessel
+large engraving laser
+large cutting saw
+comb processor 
+mods:
+
+ad astra - galacio
+ad astra extra - adrastea, amalthea, jupiter, metis, neptune, saturn, thebe, uranus
+advancedAE - advanced pattern provider
+ae2 things
+ae2 - singularity
+evolved mekanism - overclocked
+extendedAE - pattern provider, infinity water cell, terminal, inscriber, charger
+hostile neural networks
+industrial foregoing souls
+more industrial foregoing addons
+mekanism generators - fusion reactor
+super factory manager 
+
+ZPM:
+
+131,072EU/t, quantum & exotic matter, zero-point energy, field manipulation
+
+zero point module, plasma turbines
+
+materials:
+
+naquadah
+trinium
+indium tin barium titanium cuprate
+beryllium
+europium
+naquadah alloy
+americium
+naquadria
+naquadah enriched
+americium
+deuterium
+tritium
+
+coil:
+
+naquadah
+superconducting
+
+glass:
+
+circuits:
+
+crystal processor (iv)
+crystal processor assembly (luv)
+crystal processor supercomputer (zpm)
+crystal processor mainframe (uv) (endgoal) 
+machines:
+
+elite 3 machines 
+multiblocks:
+
+active transformer
+fusion reactor computer MK 1
+data bank
+high performance computation array
+research station
+naquadah reactor
+Beamline
+pattern optimisation matrix 
+
+parallel:
+
+superheated pyrolyzing oven
+advanced cracking unit 
+mods:
+
+advancedAE - reaction chamber, quantum computer, quantum armour
+ae2 mega things
+ae2 wireless terminals
+ae2 - quantum bridge
+evolved mekanism - quantum
+extendedAE - assembler matrix
+mega cells
+mekanism - teleporters, quantum entangloporters
+sanguine neural networks
+stargate journey - abydos 
+
+UV:
+
+524,288EU/t, fusion & transcendence, stabilized fusion power, antimatter
+
+antimatter reactors, stellar collectors
+
+materials:
+
+naquadria
+uranium rhodium dinaquadide
+darmstadtium
+yttrium barium cuprate
+tritanium
+enriched naquadah trinium europium duranide 
+neutronium
+neutronium dust
+omnium
+hydrogen plasma
+plasma cells
+
+coil:
+
+trinium coil
+tritanium
+
+glass:
+
+circuits:
+
+wetware processor (luv)
+wetware processor assembly (zpm)
+wetware processor supercomputer (uv) 
+wetware processor mainframe (uhv) (endgoal) 
+machines:
+
+ultimate machines 
+multiblocks:
+
+fusion reactor computer MK 2
+network switch
+sterilizing cleanroom
+large naquadah reactor
+extreme temperature fluctuation purification unit 
+space elevator 
+nano forge 
+high energy laser purification unit 
+naquadah fuel refinery 
+
+parallel:
+
+advanced large chemical reactor 
+mods:
+
+draconic evolution - basic tier fusion crafting
+evolved mekanism - dense & antimatter protomolecular transmutator
+expanded AE - expanded pattern provider & terminal
+mekanism generators - super-critical phase shifter
+stargate journey - chulak
+fossils and archeology (chulak)
+alex's caves - primordial caves (fossils and archeology) 
+
+UHV:
+
+2,097,152EU/t, post-fusion civilization, element synthesis, matter replication
+
+micro black holes, compressed energy cells
+
+materials:
+
+neutronium
+trinaquadalloy
+ruthenium trinium americium neutronate
+adamantium
+proto-steel
+cosmic dust
+ifninity dust
+plasma hydrogen
+antimatter
+
+coil:
+
+glass:
+
+circuits:
+
+bioprocessor (zpm)
+biowareprocessor assembly (uv)
+bioware supercomputer (uhv)
+bio mainframe (uev) (endgoal) 
+machines:
+multiblocks:
+
+fusion reactor computer MK 3
+
+parallel:
+
+highly reactive molten blast smeltery
+rotary hearth furnace
+bulk blast chiller
+neural network node
+miniature wormhole generator
+large hardon collider 
+mods:
+
+draconic evolution - wyvern tier & energy core
+evolved mekanism - multiversal
+stargate journey - rima
+avaritia universal
+projectE
+the bumblezone 
+
+UEV:
+
+8,388,606EU/t, singularity engineering, miniature black holes, singularity matter
+
+dimensional reactors, dark energy cells
+
+materials:
+
+bedrockium
+infinity alloy
+tritanium
+aeternium
+infinity dust
+singularity dust
+dark matter plasma
+
+coil:
+
+glass:
+
+circuits:
+
+optical processor (uv)
+optical assembly (uhv)
+optical computer (uev) 
+optical mainframe (uiv) (endgoal) 
+machines:
+multiblocks:
+
+micro universe orb
+mega apiary
+mega greenhouse
+mega fusion reactor
+mega kitchen
+dimensionally transcendent plasma forge
+quantum force transformer
+Residual Decontaminant Degasser Purification Unit
+pseudostable black hole containment field
+mega arc smelter
+mega brewing vat
+mega chemical bath
+mega extraction machine
+mega fractionating distillery
+mega crystallization chamber
+mega solidification array
+mega wire factory
+mega extrusion machine
+mega material press
+mega assembling factory
+mega circuit assembling facility
+mega sifting funnel
+mega centrifugal unit
+mega electrolysis chamber
+mega electromagnet
+mega maceration tower
+mega mixing vessel
+mega engraving laser
+mega cutting saw
+mega superheated pyrolyzing oven
+mega cracking unit
+mega chemical reactor 
+mega highly reactive molten blast smeltery
+mega rotary hearth furnace
+mega bulk blast chiller
+mega naquadah reactor 
+mods:
+
+draconic evolution - draconic tier
+evolved mekanism - creative
+flux networks
+stargate journey - unitas
+deeper and darker (source of bedrockium) 
+
+UIV:
+
+33,554,432EU/t, cosmic engineering, living machines, omnipresent energy networks
+
+bio-computational reactors, neural energy webs
+
+materials:
+
+black plutonium
+cosmic neutronium
+eternium
+subspace alloy
+omnium
+cosmic dust
+exotic plasma
+subspace field
+
+coil:
+
+glass:
+
+circuits:
+
+pico processor (uhv)
+pico assembly (uev)
+pico computer (uiv)
+pico mainframe (uxv) (endgoal) 
+machines:
+multiblocks:
+
+star forge
+microverse projector
+hellforge
+cryostate quantum chiller
+absolute baryonic perfection purification unit
+dyson swarm ground unit
+transcendent plasma mixer
+semi-stable antimatter stabilization sequencer 
+mods:
+
+draconic evolution - chaotic tier
+stargate journey - cavum tenebrae 
+
+UXV:
+
+134,217,728EU/t, reality manipulation, rewrite matter and magic at will
+
+starforge reactor, multiversal fusion
+
+materials:
+
+spaceTime
+quantium
+omnium composite
+aetherium
+quantium dust
+aether plasma
+aetheric lfuid
+hypermatter
+
+coil:
+
+glass:
+
+circuits:
+
+star processor (uev)
+star assembly (uiv)
+star computer (uxv)
+star mainframe (opv) (endgoal) 
+machines:
+multiblocks:
+
+draconic infusion array
+mana fountain
+mana forge 
+blood forge 
+source forge 
+mana generator 
+blood generator 
+source generator 
+mods:
+
+ae2 - spatial storage
+draconic evolution - reactor
+stargate journey - lantea 
+
+OPV:
+
+536,870,912EU/t, omniscient creation, manipulation time, space, information itself
+
+creation reactors, godlike constructs
+
+materials:
+
+superconductor
+omnium
+hyperneutronium
+divintium
+primal matter
+entropy dust
+cosmic singularity plasma
+
+coil:
+
+glass:
+
+circuits:
+
+god processor (uiv)
+god assembly (uxv)
+god computer (opv)
+god mainframe (max) (endgoal) 
+machines:
+multiblocks:
+
+forge of the gods
+eye of harmony
+Industrial Apicultural Acclimatiser and Drone Domestication Station 
+mods:
+
+rftools base - dimensions stuff
+rftools utility - dimensions stuff
+rftools dimensions - dimensions stuff
+stargate journey - athos 
+
+MAX:
+
+2,147,483,648EU/t, the singularity tier, the boundary of creation, infinite power
+
+infinity reactor, singularity containment, divine cores
+
+materials:
+
+perfect omnium
+absolute zero alloy
+infinity crystal
+pure data dust
+quantum foam
+pure energy(0k plasma)
+
+coil:
+
+glass:
+
+circuits: 
+machines:
+multiblocks:
+
+boundary matter manipulation core 
+tardis

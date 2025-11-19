@@ -1,0 +1,257 @@
+ Tier 1: Nature and Spirit
+
+Theme: The awakening of natural magic — the first contact with mana, spirits, and the living essence of the world.
+Goal: Learn basic mana manipulation, druidic energy, and environmental magic.
+
+Core Mods:
+
+ Nature’s Aura – introduces natural energy systems and passive world magic.
+
+ Botania (early game access only) – start with flowers, mana pools, and functional flora.
+
+ Hexerei – witchcraft with herbs, brews, familiars, and broom flight.
+
+ Mermod – introduces mermaid transformation and water magic.
+
+ Ars Nouveau (Beginner tier) – learn basic spellcasting, glyphs, and spell creation.
+
+ GeOre + GeOre Nouveau – natural crystal attunement and early resource gathering.
+
+Dimensions & Exploration:
+
+ The Aether – the first “Good Magic” dimension; where spirits dwell.
+
+ Everbright (Blue Skies) – serves as a natural realm of radiant energies.
+
+Boss Integration:
+
+Aether bosses (e.g., Slider, Valkyrie Queen)
+
+Blue Skies Everbright bosses
+(Represent spiritual trials.)
+
+Progression Unlock:
+
+Unlock access to ritual magic and start using mana networks or spirit channels.
+
+May require an Essence of Spirit from Everbright bosses to progress.
+
+ Tier 2: Ritual Initiate
+
+Theme: Structured practice of magic through circles, rituals, and offerings to entities.
+Goal: Learn to perform controlled magic through rites, sigils, and intermediaries.
+
+Core Mods:
+
+ Occultism – summoning spirits, performing rituals, and learning about the “other side.”
+
+ Enchanted: Witchcraft – improves witchcraft and ritual circle systems.
+
+ Forbidden and Arcanus – the first taste of dark but restrained magic.
+
+ Hexerei (Expanded) – advanced rituals, broom upgrades, and familiars.
+
+ Mana and Artifice (Apprentice rank) – introduces structured spellcraft and magical materials.
+
+Dimensions:
+
+ Twilight Forest – serves as the forest of hidden ritual knowledge.
+
+ Everbright remains accessible for light rituals.
+
+Boss Integration:
+
+aquamirae
+
+Twilight Forest bosses as “ritual challenges.”
+
+Occultism’s demons or summoned bosses.
+
+Progression Unlock:
+
+Perform a Grand Rite combining light (Everbright) and shadow (Twilight) energy.
+
+Gain access to Arcane study through a ritual portal or artifact.
+
+ Tier 3: Arcane Scholar
+
+Theme: The age of knowledge and academia — discovering runes, sigils, and structured schools of magic.
+Goal: Formalize magic into systems and learn the deeper rules behind it.
+
+Core Mods:
+
+ Ars Nouveau (Intermediate) – advanced spell crafting, automation with familiars.
+
+ Mana and Artifice (Adept rank) – multi-component spells and enchanting.
+
+ Magichem – magical chemistry and reactions.
+
+ Apotheosis (Enchantment) – understanding enchantment systems beyond vanilla limits.
+
+ Primal Magick – balancing primal sources (sun, sea, blood, etc.).
+
+Dimensions:
+
+ Twilight Forest (continued) – deeper ruins and libraries.
+
+ Everbright/Everdawn – representing the academic divide: light vs dark schools.
+
+Boss Integration:
+
+Twilight Forest: Hydra, Lich, Ur-Ghast as magical exams.
+
+Blue Skies Everdawn bosses: dark counterpoint trials.
+
+Progression Unlock:
+
+Combine energies from multiple primal sources.
+
+Unlock Alchemical knowledge and forbidden texts.
+
+ Tier 4: Alchemy and Forbidden Power
+
+Theme: The manipulation of creation itself through transmutation, forbidden runes, and alchemical synthesis.
+Goal: Bend the rules of nature and magic to your will.
+
+Core Mods:
+
+ Theurgy – core alchemy framework and energy synthesis.
+
+ Magichem (Advanced) – complex magical crafting and life-energy reactions.
+
+ EvilCraft – corruption-based magic, vampirism, and dark essences.
+
+ Goety – demonic spellcraft and necromancy.
+
+ Forbidden and Arcanus (expanded) – arcane artifacts, soul crystals, and forbidden tools.
+
+ Mystical Agriculture + Customization – alchemical resource transmutation.
+
+Dimensions:
+
+ Everdawn (Blue Skies dark realm)
+
+ The Twilight Forest (Deep zones) – corrupted groves and ancient labs.
+
+Boss Integration:
+
+Blue Skies Everdawn bosses
+
+Cataclysm bosses begin appearing as “manifestations of forbidden energy.”
+
+Progression Unlock:
+
+Unlock Soul and Blood research.
+
+Gain access to Blood Magic Tier 1 (Apprentice).
+
+ Tier 5: Blood and Soul
+
+Theme: The deepest personal connection — magic fueled by life force and will.
+Goal: Master blood rites, soul crystals, and energy conversion.
+
+Core Mods:
+
+ Blood Magic – main focus, with tiered altars and rituals.
+
+ Malum – magic of spirit, suffering, and soul manipulation.
+
+ Goety (expanded) – dark pacts, necromantic summons.
+
+ Forbidden and Arcanus – soulbound crafting and artifacts.
+
+ Apotheosis (Boss/Blood branch) – artifact upgrades and dungeon loot.
+
+Dimensions:
+
+ The Undergarden – realm of decay and corrupted souls.
+
+ Alex’s Caves – hidden relics and ancient soul containers.
+
+Boss Integration:
+
+Undergarden bosses
+
+Cataclysm: Ignis, The Harbinger
+
+BOMD: Gauntlet bosses as soul trials.
+
+Progression Unlock:
+
+Perform a Soul Ascension ritual.
+
+Gain access to Arcana Ascension research.
+
+ Tier 6: Arcana Ascension
+
+Theme: Uniting all schools of magic — mastery of the arcane laws of creation.
+Goal: Channel light and darkness harmoniously, constructing divine artifacts.
+
+Core Mods:
+
+ Primal Magick (final tier) – balance primal sources.
+
+ Mana and Artifice (Master rank) – reality rewriting spells.
+
+ Botania (Endgame) – Gaia Guardian rituals.
+
+ Mahou Tsukai – anime-style ultimate abilities powered by mana pools.
+
+ Irons Spells n Spellbooks – advanced combat and spell fusion.
+
+Dimensions:
+
+ The Aether (Revisited) – divine trials of ascension.
+
+ The Undergarden (Depths) – final confrontation with darkness.
+
+Boss Integration:
+
+Gaia Guardian II
+
+Cataclysm: The Ender Guardian
+
+BOMD: Final Trials bosses
+
+Progression Unlock:
+
+Achieve Arcane Balance → unlock Universal Synthesis tier.
+
+ Tier 7: Universal Synthesis
+
+Theme: The creation of gods — mastery of both creation and entropy.
+Goal: Combine all energies, transcend material limits, and forge the “Philosopher’s Core.”
+
+Core Mods:
+
+ Theurgy (Endgame) – matter-energy transmutation.
+
+ Botania (Creative-level automation)
+
+ Magichem (Grand synthesis)
+
+ Mahou Tsukai (Unlimited mana & reality warping)
+
+ Blood Magic (Archmage tier)
+
+ Occultism (Final tier demon lords)
+
+ Apotheosis (Final) – divine artifacts and relic crafting.
+
+Dimensions:
+
+ Fusion of Aether, Everdawn, and Undergarden through custom portal or event.
+
+Cosmic or custom “Arcane Nexus” dimension could be created via datapack.
+
+Boss Integration:
+
+Cataclysm final bosses
+
+Ice and Fire Dragons (Elder tier)
+
+Optional final encounter: “Avatar of Equilibrium” (custom boss).
+
+Endgame Outcome:
+
+You unify all magic forms into Universal Synthesis — a system that bridges divine and forbidden, crafting pure mana matter and rewriting the world.
