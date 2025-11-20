@@ -189,6 +189,11 @@
     "modId": "kubejs",
     "version": "2001.6.5-build.16"
   },
+  "letsdo-bloomingnature-forge-1.0.12.jar": {
+    "jarName": "letsdo-bloomingnature-forge-1.0.12.jar",
+    "modId": "bloomingnature",
+    "version": "1.0.12"
+  },
   "lootr-forge-1.20-0.7.35.93.jar": {
     "jarName": "lootr-forge-1.20-0.7.35.93.jar",
     "modId": "lootr",
