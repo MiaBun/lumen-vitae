@@ -30,7 +30,6 @@
 		}
 		{
 			dependencies: ["53BBA99EAE29C2EE"]
-			hide_until_deps_visible: true
 			id: "44B3B150BD3FAF8B"
 			tasks: [{
 				icon: "minecraft:oak_planks"
@@ -63,7 +62,6 @@
 		}
 		{
 			dependencies: ["3FEE98DE4E98DC40"]
-			hide_until_deps_visible: true
 			id: "00EB473FF81B9914"
 			tasks: [{
 				id: "26C2E93A5D5B7D7C"
@@ -76,7 +74,6 @@
 		}
 		{
 			dependencies: ["3FEE98DE4E98DC40"]
-			hide_until_deps_visible: true
 			id: "7443E4ABA98CB10E"
 			tasks: [{
 				id: "2E0132AB4AC04108"
@@ -95,7 +92,6 @@
 		}
 		{
 			dependencies: ["7443E4ABA98CB10E"]
-			hide_until_deps_visible: true
 			id: "0E60C539953373C9"
 			tasks: [{
 				id: "40C0B0C564C1D907"
@@ -108,7 +104,6 @@
 		}
 		{
 			dependencies: ["0E60C539953373C9"]
-			hide_until_deps_visible: true
 			id: "117712B5ECB1ED7D"
 			tasks: [{
 				id: "1506F4E6DF397C7E"
@@ -121,7 +116,6 @@
 		}
 		{
 			dependencies: ["0E60C539953373C9"]
-			hide_until_deps_visible: true
 			id: "3B42B1B56D21CC25"
 			tasks: [{
 				id: "45F2EE29B9AD43E7"
@@ -140,7 +134,6 @@
 		}
 		{
 			dependencies: ["3B42B1B56D21CC25"]
-			hide_until_deps_visible: true
 			id: "50092CB91B6675DA"
 			tasks: [{
 				id: "71CF465A6AA3D4FC"
@@ -153,7 +146,6 @@
 		}
 		{
 			dependencies: ["50092CB91B6675DA"]
-			hide_until_deps_visible: true
 			id: "477AA7192E064E98"
 			tasks: [{
 				id: "748A7A8CAC35BDB4"
@@ -172,7 +164,6 @@
 		}
 		{
 			dependencies: ["50092CB91B6675DA"]
-			hide_until_deps_visible: true
 			id: "66B0500202C97F00"
 			tasks: [{
 				id: "428AF4BE6FBC5244"
@@ -194,7 +185,6 @@
 				"66B0500202C97F00"
 				"477AA7192E064E98"
 			]
-			hide_until_deps_visible: true
 			id: "49FCF3A1981FED19"
 			tasks: [{
 				id: "5E70593805BC4E17"
@@ -207,7 +197,6 @@
 		}
 		{
 			dependencies: ["49FCF3A1981FED19"]
-			hide_until_deps_visible: true
 			id: "34E0989FA6D23FBA"
 			tasks: [{
 				id: "3DF2767FF6A81F63"
@@ -226,7 +215,6 @@
 		}
 		{
 			dependencies: ["34E0989FA6D23FBA"]
-			hide_until_deps_visible: true
 			id: "52342FCE52E6C704"
 			tasks: [{
 				id: "3CA6F8AC34D0745F"
@@ -239,7 +227,6 @@
 		}
 		{
 			dependencies: ["0E60C539953373C9"]
-			hide_until_deps_visible: true
 			id: "072853773F7E87E4"
 			tasks: [{
 				id: "04326C7513B75175"
@@ -258,7 +245,6 @@
 		}
 		{
 			dependencies: ["34E0989FA6D23FBA"]
-			hide_until_deps_visible: true
 			id: "7868894228EAD44E"
 			tasks: [
 				{
@@ -323,7 +309,6 @@
 		}
 		{
 			dependencies: ["52342FCE52E6C704"]
-			hide_until_deps_visible: true
 			id: "0717251773AC2098"
 			tasks: [{
 				id: "2A5DF3816F2FC2E6"
@@ -336,7 +321,6 @@
 		}
 		{
 			dependencies: ["52342FCE52E6C704"]
-			hide_until_deps_visible: true
 			id: "56D10457896AB637"
 			tasks: [{
 				dimension: "minecraft:the_nether"
@@ -349,7 +333,6 @@
 		}
 		{
 			dependencies: ["56D10457896AB637"]
-			hide_until_deps_visible: true
 			icon: "minecraft:blaze_rod"
 			id: "054D576858DF3E2D"
 			tasks: [{
@@ -364,7 +347,6 @@
 		}
 		{
 			dependencies: ["054D576858DF3E2D"]
-			hide_until_deps_visible: true
 			icon: "minecraft:ender_pearl"
 			id: "60BFB73B9B2D62C2"
 			tasks: [{
@@ -379,7 +361,6 @@
 		}
 		{
 			dependencies: ["56D10457896AB637"]
-			hide_until_deps_visible: true
 			id: "24AB9E19B5BE4BB8"
 			tasks: [
 				{
@@ -444,7 +425,6 @@
 		}
 		{
 			dependencies: ["60BFB73B9B2D62C2"]
-			hide_until_deps_visible: true
 			id: "358468D0417B586D"
 			tasks: [{
 				id: "3CCC510A76905B28"
@@ -470,7 +450,6 @@
 		}
 		{
 			dependencies: ["19F4CFF3260129D3"]
-			hide_until_deps_visible: true
 			id: "7281353A6DE8C28E"
 			tasks: [{
 				dimension: "minecraft:the_end"
@@ -484,7 +463,6 @@
 		}
 		{
 			dependencies: ["7281353A6DE8C28E"]
-			hide_until_deps_visible: true
 			id: "40321DAE5F565130"
 			tasks: [{
 				entity: "minecraft:ender_dragon"
@@ -499,7 +477,6 @@
 		}
 		{
 			dependencies: ["40321DAE5F565130"]
-			hide_until_deps_visible: true
 			id: "7AD4234268C5F6A9"
 			tasks: [{
 				id: "20DDC31DAE527151"
@@ -527,7 +504,6 @@
 				"you can also build beautiful buildings!!"
 				"or... you can discover the meaning of life..."
 			]
-			hide_until_deps_visible: true
 			icon: "minecraft:dragon_head"
 			id: "258F4DCBDAD28569"
 			tasks: [{
