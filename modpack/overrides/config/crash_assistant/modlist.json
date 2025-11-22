@@ -54,6 +54,11 @@
     "modId": "artifacts",
     "version": "9.5.16"
   },
+  "astikorcarts-1.20.1-1.1.8.jar": {
+    "jarName": "astikorcarts-1.20.1-1.1.8.jar",
+    "modId": "astikorcarts",
+    "version": "1.1.8"
+  },
   "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar": {
     "jarName": "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
     "modId": "betteradvancements",
