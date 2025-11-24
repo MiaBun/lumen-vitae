@@ -94,20 +94,20 @@
     "modId": "controlling",
     "version": "12.0.2"
   },
-  "CrashAssistant-forge-1.19-1.20.1-1.10.22.jar": {
-    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.22.jar",
+  "CrashAssistant-forge-1.19-1.20.1-1.10.23.jar": {
+    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.23.jar",
     "modId": "crash_assistant",
-    "version": "1.10.22"
+    "version": "1.10.23"
   },
   "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar": {
     "jarName": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
     "modId": "creativecore",
     "version": "2.12.32"
   },
-  "cullleaves-forge-3.2.0.jar": {
-    "jarName": "cullleaves-forge-3.2.0.jar",
+  "cullleaves-forge-4.1.0+1.20.1.jar": {
+    "jarName": "cullleaves-forge-4.1.0+1.20.1.jar",
     "modId": "cullleaves",
-    "version": "3.2.0"
+    "version": "4.1.0"
   },
   "cupboard-1.20.1-2.7.jar": {
     "jarName": "cupboard-1.20.1-2.7.jar",
@@ -134,10 +134,10 @@
     "modId": "extremesoundmuffler",
     "version": "3.48"
   },
-  "fancymenu_forge_3.7.0_MC_1.20.1.jar": {
-    "jarName": "fancymenu_forge_3.7.0_MC_1.20.1.jar",
+  "fancymenu_forge_3.8.0_MC_1.20.1.jar": {
+    "jarName": "fancymenu_forge_3.8.0_MC_1.20.1.jar",
     "modId": "fancymenu",
-    "version": "3.7.0"
+    "version": "3.8.0"
   },
   "fastboot-1.20.x-1.2.jar": {
     "jarName": "fastboot-1.20.x-1.2.jar",
@@ -259,10 +259,10 @@
     "modId": "melody",
     "version": "1.0.2"
   },
-  "midnightlib-forge-1.4.2.jar": {
-    "jarName": "midnightlib-forge-1.4.2.jar",
+  "midnightlib-forge-1.9.1+1.20.1.jar": {
+    "jarName": "midnightlib-forge-1.9.1+1.20.1.jar",
     "modId": "midnightlib",
-    "version": "1.4.2"
+    "version": "1.9.1"
   },
   "modernfix-forge-5.25.1+mc1.20.1.jar": {
     "jarName": "modernfix-forge-5.25.1+mc1.20.1.jar",
