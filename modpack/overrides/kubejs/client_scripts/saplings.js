@@ -23,5 +23,21 @@ ItemEvents.tooltip(event => {
     event.add('bloomingnature:fan_palm_sprout', Text.yellow('Livistona'))
 
     //biomes o plenty
-    
+    event.add('biomesoplenty:fir_sapling', Text.yellow('Abies alba'))
+    event.add('biomesoplenty:maple_sapling', Text.yellow('Acer'))
+    event.add('biomesoplenty:origin_sapling', Text.yellow('Arbor'))
+    event.add('biomesoplenty:magic_sapling', Text.yellow('Arbor Magica'))
+    event.add('biomesoplenty:dead_sapling', Text.yellow('Arbor Mortuus'))
+    event.add('biomesoplenty:palm_sapling', Text.yellow('Arecaceae'))
+    event.add('biomesoplenty:rainbow_birch_sapling', Text.yellow('Eucalyptus Deglupta'))
+    event.add('biomesoplenty:jacaranda_sapling', Text.yellow('Jacaranda'))
+    event.add('biomesoplenty:orange_autumn_sapling', Text.yellow('Liquidambar Styraciflua'))
+    event.add('biomesoplenty:yellow_autumn_sapling', Text.yellow('Liriodendron Tulipifera'))
+    event.add('biomesoplenty:hellbark_sapling', Text.yellow('Melaleuca Quinquenervia'))
+    event.add('biomesoplenty:flowering_oak_sapling', Text.yellow('Quercus Robur'))
+    event.add('biomesoplenty:willow_sapling', Text.yellow('Salix'))
+    event.add('biomesoplenty:redwood_sapling', Text.yellow('Sequoioideae'))
+    event.add('biomesoplenty:snowblossom_sapling', Text.yellow('Styrax Japonicus'))
+    event.add('biomesoplenty:mahogany_sapling', Text.yellow('Swietenia'))
+    event.add('biomesoplenty:umbran_sapling', Text.yellow('Umbra Arboris'))
 })
