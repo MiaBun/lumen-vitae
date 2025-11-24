@@ -21,4 +21,7 @@ ItemEvents.tooltip(event => {
     event.add('bloomingnature:chestnut_sapling', Text.yellow('Castanea'))
     event.add('bloomingnature:fir_sapling', Text.yellow('Abies'))
     event.add('bloomingnature:fan_palm_sprout', Text.yellow('Livistona'))
+
+    //biomes o plenty
+    
 })
