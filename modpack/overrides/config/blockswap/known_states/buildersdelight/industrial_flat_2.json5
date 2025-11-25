@@ -1,0 +1,484 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "off",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "off",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "off",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "off",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "off",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "off",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "off",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "off",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "off",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "off",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "off",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "off",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"state": "on",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"state": "on",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "buildersdelight:industrial_flat_2"
+	}
+]
