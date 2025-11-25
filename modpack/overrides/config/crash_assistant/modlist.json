@@ -89,6 +89,11 @@
     "modId": "butterflies",
     "version": "6.6.6"
   },
+  "carryon-forge-1.20.1-2.1.2.7.jar": {
+    "jarName": "carryon-forge-1.20.1-2.1.2.7.jar",
+    "modId": "carryon",
+    "version": "2.1.2.7"
+  },
   "citadel-2.6.2-1.20.1.jar": {
     "jarName": "citadel-2.6.2-1.20.1.jar",
     "modId": "citadel",
