@@ -219,6 +219,11 @@
     "modId": "immediatelyfast",
     "version": "1.5.2+1.20.4"
   },
+  "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar": {
+    "jarName": "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+    "modId": "item_obliterator",
+    "version": "2.3.0"
+  },
   "Jade-1.20.1-Forge-11.13.2.jar": {
     "jarName": "Jade-1.20.1-Forge-11.13.2.jar",
     "modId": "jade",
@@ -288,6 +293,11 @@
     "jarName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
     "modId": "mousetweaks",
     "version": "2.25.1"
+  },
+  "Necronomicon-Forge-1.6.0+1.20.1.jar": {
+    "jarName": "Necronomicon-Forge-1.6.0+1.20.1.jar",
+    "modId": "necronomicon",
+    "version": "1.6.0"
   },
   "oculus-mc1.20.1-1.8.0.jar": {
     "jarName": "oculus-mc1.20.1-1.8.0.jar",
