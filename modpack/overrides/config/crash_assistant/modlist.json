@@ -94,6 +94,11 @@
     "modId": "carryon",
     "version": "2.1.2.7"
   },
+  "chisels-and-bits-forge-1.4.148.jar": {
+    "jarName": "chisels-and-bits-forge-1.4.148.jar",
+    "modId": "chiselsandbits",
+    "version": "1.4.148"
+  },
   "citadel-2.6.2-1.20.1.jar": {
     "jarName": "citadel-2.6.2-1.20.1.jar",
     "modId": "citadel",
