@@ -17,7 +17,8 @@
   //    Example: minecraft:diamond
   "blacklisted_items": [
     "biomesoplenty:cattail",
-    "bloomingnature:reed"
+    "bloomingnature:reed",
+    "alexsmobs:spawn_egg_skunk"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
