@@ -398,5 +398,10 @@
     "jarName": "XaerosWorldMap_1.39.12_Forge_1.20.jar",
     "modId": "xaeroworldmap",
     "version": "1.39.12"
+  },
+  "YouShallNotSpawn-forge-1.20.x-2.0.2.jar": {
+    "jarName": "YouShallNotSpawn-forge-1.20.x-2.0.2.jar",
+    "modId": "ysns",
+    "version": "2.0.2"
   }
 }
