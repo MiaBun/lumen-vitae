@@ -514,6 +514,26 @@
 			x: 27.0d
 			y: -1.5d
 		}
+		{
+			dependencies: ["50092CB91B6675DA"]
+			description: [
+				"Iron is arguably one of the most important resources in minecraft,"
+				"to make a simple Iron farm press 'V' when looking at a villager to pick it up,"
+				"then right click with the villager on the Iron Farm block to put the villager inside,"
+				"this will allow you to farm infinite iron!"
+				""
+				"ps: you can also use this same mechanic to put a village inside of a Trader block, this will allow you to easily trade with the villager, cycle through it's trades and it'll protect the villager from danger!"
+			]
+			id: "6168FE4312D9F858"
+			tasks: [{
+				id: "3CE7E11D27003D2A"
+				item: "easy_villagers:iron_farm"
+				type: "item"
+			}]
+			title: "Making a basic iron farm"
+			x: 9.0d
+			y: 1.5d
+		}
 	]
 	title: "new beginnings"
 }
