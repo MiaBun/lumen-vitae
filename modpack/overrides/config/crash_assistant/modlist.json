@@ -134,6 +134,11 @@
     "modId": "creativecore",
     "version": "2.12.32"
   },
+  "crittersandcompanions-forge-1.20.1-2.3.5.jar": {
+    "jarName": "crittersandcompanions-forge-1.20.1-2.3.5.jar",
+    "modId": "crittersandcompanions",
+    "version": "1.20.1-2.3.5"
+  },
   "cullleaves-forge-4.1.0+1.20.1.jar": {
     "jarName": "cullleaves-forge-4.1.0+1.20.1.jar",
     "modId": "cullleaves",
@@ -238,6 +243,11 @@
     "jarName": "fusion-1.2.11a-forge-mc1.20.1.jar",
     "modId": "fusion",
     "version": "1.2.11+a"
+  },
+  "geckolib-forge-1.20.1-4.8.2.jar": {
+    "jarName": "geckolib-forge-1.20.1-4.8.2.jar",
+    "modId": "geckolib",
+    "version": "4.8.2"
   },
   "ImmediatelyFast-Forge-1.5.2+1.20.4.jar": {
     "jarName": "ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
