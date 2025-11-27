@@ -34,5 +34,5 @@
 	#How long an Effigy lasts when lighten up. This is measured in seconds.
 	"Effigy Light" = 3000.0
 	#If a player is given a Field Guide when logging into a world for the first time.
-	"Field Guide" = true
+	"Field Guide" = false
 
