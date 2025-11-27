@@ -522,7 +522,7 @@
 				"then right click with the villager on the Iron Farm block to put the villager inside,"
 				"this will allow you to farm infinite iron!"
 				""
-				"ps: you can also use this same mechanic to put a village inside of a Trader block, this will allow you to easily trade with the villager, cycle through it's trades and it'll protect the villager from danger!"
+				"ps: you can also use this same mechanic to put a villager inside of a Trader block, this will allow you to easily trade with the villager, cycle through it's trades and it'll protect the villager from danger!"
 			]
 			id: "6168FE4312D9F858"
 			tasks: [{
