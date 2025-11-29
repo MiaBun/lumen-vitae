@@ -224,6 +224,11 @@
     "modId": "ferritecore",
     "version": "6.0.1"
   },
+  "FramedBlocks-9.4.2.jar": {
+    "jarName": "FramedBlocks-9.4.2.jar",
+    "modId": "framedblocks",
+    "version": "9.4.2"
+  },
   "ftb-filter-system-forge-20.0.1.jar": {
     "jarName": "ftb-filter-system-forge-20.0.1.jar",
     "modId": "ftbfiltersystem",
