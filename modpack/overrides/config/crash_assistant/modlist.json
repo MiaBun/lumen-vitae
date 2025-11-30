@@ -289,6 +289,11 @@
     "modId": "immersive_paintings",
     "version": "0.6.8+1.20.1"
   },
+  "Incendium_1.20.x_v5.3.5.jar": {
+    "jarName": "Incendium_1.20.x_v5.3.5.jar",
+    "modId": "incendium",
+    "version": "5.3.5"
+  },
   "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar": {
     "jarName": "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
     "modId": "item_obliterator",
