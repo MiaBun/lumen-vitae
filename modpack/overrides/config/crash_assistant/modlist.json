@@ -439,6 +439,11 @@
     "modId": "xaeroworldmap",
     "version": "1.39.12"
   },
+  "xercapaint-1.20.1-1.0.1.jar": {
+    "jarName": "xercapaint-1.20.1-1.0.1.jar",
+    "modId": "xercapaint",
+    "version": "1.20.1-1.0.1"
+  },
   "YouShallNotSpawn-forge-1.20.x-2.0.2.jar": {
     "jarName": "YouShallNotSpawn-forge-1.20.x-2.0.2.jar",
     "modId": "ysns",
