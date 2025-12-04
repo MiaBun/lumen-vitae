@@ -364,6 +364,16 @@
     "modId": "modernfix",
     "version": "5.25.1+mc1.20.1"
   },
+  "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar": {
+    "jarName": "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
+    "modId": "moogs_structures",
+    "version": "1.1.0-1.20-1.20.4"
+  },
+  "MoogsNetherStructures-1.20-2.0.2.jar": {
+    "jarName": "MoogsNetherStructures-1.20-2.0.2.jar",
+    "modId": "mns",
+    "version": "2.0.2"
+  },
   "moonlight-1.20-2.16.16-forge.jar": {
     "jarName": "moonlight-1.20-2.16.16-forge.jar",
     "modId": "moonlight",
