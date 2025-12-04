@@ -384,6 +384,11 @@
     "modId": "mousetweaks",
     "version": "2.25.1"
   },
+  "mythicmounts-20.1-7.4.2-forge.jar": {
+    "jarName": "mythicmounts-20.1-7.4.2-forge.jar",
+    "modId": "mythicmounts",
+    "version": "20.1-7.4.2-forge"
+  },
   "Necronomicon-Forge-1.6.0+1.20.1.jar": {
     "jarName": "Necronomicon-Forge-1.6.0+1.20.1.jar",
     "modId": "necronomicon",
@@ -393,6 +398,11 @@
     "jarName": "oculus-mc1.20.1-1.8.0.jar",
     "modId": "oculus",
     "version": "1.8.0"
+  },
+  "Patchouli-1.20.1-84.1-FORGE.jar": {
+    "jarName": "Patchouli-1.20.1-84.1-FORGE.jar",
+    "modId": "patchouli",
+    "version": "1.20.1-84.1-FORGE"
   },
   "Placebo-1.20.1-8.6.3.jar": {
     "jarName": "Placebo-1.20.1-8.6.3.jar",
