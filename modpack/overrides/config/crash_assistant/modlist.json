@@ -501,12 +501,12 @@
     "curseForgeHash": 3318016077,
     "modrinthHash": "3cda3669d41388cd5cd84a5f8c5f722b7af462cd"
   },
-  "modernfix-forge-5.25.1+mc1.20.1.jar": {
-    "jarName": "modernfix-forge-5.25.1+mc1.20.1.jar",
+  "modernfix-forge-5.25.2+mc1.20.1.jar": {
+    "jarName": "modernfix-forge-5.25.2+mc1.20.1.jar",
     "modId": "modernfix",
-    "version": "5.25.1+mc1.20.1",
-    "curseForgeHash": 3139276307,
-    "modrinthHash": "124ea5db8c3b7dc00166806ef0fc412177882fda"
+    "version": "5.25.2+mc1.20.1",
+    "curseForgeHash": 3074548209,
+    "modrinthHash": "4069534174e618393f0c14d9dc61ac27a04bb992"
   },
   "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar": {
     "jarName": "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
