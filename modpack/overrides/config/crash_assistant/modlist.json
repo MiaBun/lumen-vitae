@@ -550,6 +550,13 @@
     "curseForgeHash": 664163040,
     "modrinthHash": "e0ddee72643c92f2b4754fa4d24c16d79eba343a"
   },
+  "NaturesCompass-1.20.1-1.11.2-forge.jar": {
+    "jarName": "NaturesCompass-1.20.1-1.11.2-forge.jar",
+    "modId": "naturescompass",
+    "version": "1.20.1-1.11.2-forge",
+    "curseForgeHash": 3701495044,
+    "modrinthHash": "31ae930cdbb34e8e05e1954cfb2fee3a3813e850"
+  },
   "Necronomicon-Forge-1.6.0+1.20.1.jar": {
     "jarName": "Necronomicon-Forge-1.6.0+1.20.1.jar",
     "modId": "necronomicon",
