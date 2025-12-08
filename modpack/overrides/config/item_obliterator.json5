@@ -18,7 +18,13 @@
   "blacklisted_items": [
     "biomesoplenty:cattail",
     "bloomingnature:reed",
-    "alexsmobs:spawn_egg_skunk"
+    "alexsmobs:spawn_egg_skunk",
+    "alexsmobs:spawn_egg_rattlesnake",
+    "naturalist:butterfly_spawn_egg",
+    "naturalist:catfish_spawn_egg",
+    "naturalist:elephant_spawn_egg",
+    "naturalist:rattlesnake_spawn_egg",
+    "naturalist:snake_spawn_egg"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
