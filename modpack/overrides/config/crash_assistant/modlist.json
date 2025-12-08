@@ -543,6 +543,13 @@
     "curseForgeHash": 1465831610,
     "modrinthHash": "a2c411308080ab61da211380321da8490b376285"
   },
+  "naturalist-5.0pre2+forge-1.20.1.jar": {
+    "jarName": "naturalist-5.0pre2+forge-1.20.1.jar",
+    "modId": "naturalist",
+    "version": "5.0pre2",
+    "curseForgeHash": 664163040,
+    "modrinthHash": "e0ddee72643c92f2b4754fa4d24c16d79eba343a"
+  },
   "Necronomicon-Forge-1.6.0+1.20.1.jar": {
     "jarName": "Necronomicon-Forge-1.6.0+1.20.1.jar",
     "modId": "necronomicon",
