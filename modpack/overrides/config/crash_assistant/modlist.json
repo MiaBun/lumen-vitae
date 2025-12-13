@@ -25,12 +25,12 @@
     "curseForgeHash": 1225915087,
     "modrinthHash": "3c43c2e76093dc7ef5ad6e456d20da9674c653aa"
   },
-  "AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar": {
-    "jarName": "AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar",
+  "AmbientSounds_FORGE_v6.3.1_mc1.20.1.jar": {
+    "jarName": "AmbientSounds_FORGE_v6.3.1_mc1.20.1.jar",
     "modId": "ambientsounds",
-    "version": "6.1.11",
-    "curseForgeHash": 1910002494,
-    "modrinthHash": "af412170c07febfb5c611b7237d806230dc83584"
+    "version": "6.3.1",
+    "curseForgeHash": 1168047345,
+    "modrinthHash": "b6c676fbe4e586de6c266190943c069a0a49104d"
   },
   "amendments-1.20-2.2.3.jar": {
     "jarName": "amendments-1.20-2.2.3.jar",
@@ -172,12 +172,12 @@
     "curseForgeHash": 2144346557,
     "modrinthHash": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
   },
-  "CrashAssistant-forge-1.19-1.20.1-1.10.25.jar": {
-    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.25.jar",
+  "CrashAssistant-forge-1.19-1.20.1-1.10.26.jar": {
+    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.26.jar",
     "modId": "crash_assistant",
-    "version": "1.10.25",
-    "curseForgeHash": 3610290716,
-    "modrinthHash": "b7d7dc4f2468376494ba7333c3bda2f893764742"
+    "version": "1.10.26",
+    "curseForgeHash": 3102150280,
+    "modrinthHash": "d5cd735e77ad7ef265cb4f80483a240e62239f5c"
   },
   "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar": {
     "jarName": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
@@ -200,12 +200,12 @@
     "curseForgeHash": 3069885784,
     "modrinthHash": "2f1e69f8c2df17459aff94762dbf197301e67d95"
   },
-  "cullleaves-forge-4.1.0+1.20.1.jar": {
-    "jarName": "cullleaves-forge-4.1.0+1.20.1.jar",
+  "cullleaves-forge-4.1.1+1.20.1.jar": {
+    "jarName": "cullleaves-forge-4.1.1+1.20.1.jar",
     "modId": "cullleaves",
-    "version": "4.1.0",
-    "curseForgeHash": 169422956,
-    "modrinthHash": "f65ca3e9a60a6705694de1fce801b6ee9a490daf"
+    "version": "4.1.1",
+    "curseForgeHash": 1581810075,
+    "modrinthHash": "610b92837c4233c5c1f22ed495728c5ad0c78050"
   },
   "cupboard-1.20.1-2.7.jar": {
     "jarName": "cupboard-1.20.1-2.7.jar",
@@ -242,12 +242,12 @@
     "curseForgeHash": 4281946638,
     "modrinthHash": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
   },
-  "entityculling-forge-1.9.3-mc1.20.1.jar": {
-    "jarName": "entityculling-forge-1.9.3-mc1.20.1.jar",
+  "entityculling-forge-1.9.4-mc1.20.1.jar": {
+    "jarName": "entityculling-forge-1.9.4-mc1.20.1.jar",
     "modId": "entityculling",
-    "version": "1.9.3",
-    "curseForgeHash": 3716324915,
-    "modrinthHash": "8faea4818faab6b870ee370b52434b016542b519"
+    "version": "1.9.4",
+    "curseForgeHash": 744623401,
+    "modrinthHash": "2b19c5c38f88285aed2aad6a61eb622003540ee5"
   },
   "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar": {
     "jarName": "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar",
@@ -389,12 +389,12 @@
     "curseForgeHash": 3374566562,
     "modrinthHash": "3e00794b64f7bc49efa36f903d55fa685429070d"
   },
-  "ImmediatelyFast-Forge-1.5.2+1.20.4.jar": {
-    "jarName": "ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+  "ImmediatelyFast-Forge-1.5.3+1.20.4.jar": {
+    "jarName": "ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
     "modId": "immediatelyfast",
-    "version": "1.5.2+1.20.4",
-    "curseForgeHash": 2294782294,
-    "modrinthHash": "2eeca5deb063ed49bb9c6be8b162ca6270202239"
+    "version": "1.5.3+1.20.4",
+    "curseForgeHash": 2056126318,
+    "modrinthHash": "d4695d013e9da7089e2906db3f56bc5398e478e2"
   },
   "immersive_paintings-0.6.8+1.20.1-forge.jar": {
     "jarName": "immersive_paintings-0.6.8+1.20.1-forge.jar",
@@ -494,12 +494,12 @@
     "curseForgeHash": 1309040499,
     "modrinthHash": "849577ebba438bafa8eb8f5769292cf943563d93"
   },
-  "midnightlib-forge-1.9.1+1.20.1.jar": {
-    "jarName": "midnightlib-forge-1.9.1+1.20.1.jar",
+  "midnightlib-forge-1.9.2+1.20.1.jar": {
+    "jarName": "midnightlib-forge-1.9.2+1.20.1.jar",
     "modId": "midnightlib",
-    "version": "1.9.1",
-    "curseForgeHash": 3318016077,
-    "modrinthHash": "3cda3669d41388cd5cd84a5f8c5f722b7af462cd"
+    "version": "1.9.2",
+    "curseForgeHash": 3315618055,
+    "modrinthHash": "ff01aa718b71249012c41d9926d3fd2982809fdb"
   },
   "modernfix-forge-5.25.2+mc1.20.1.jar": {
     "jarName": "modernfix-forge-5.25.2+mc1.20.1.jar",
