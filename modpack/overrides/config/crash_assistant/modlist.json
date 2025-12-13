@@ -172,6 +172,13 @@
     "curseForgeHash": 2144346557,
     "modrinthHash": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
   },
+  "Corgilib-Forge-1.20.1-4.0.3.4.jar": {
+    "jarName": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
+    "modId": "corgilib",
+    "version": "4.0.3.4",
+    "curseForgeHash": 3208777550,
+    "modrinthHash": "4b08e5f8f2580842eacd5388458a0b52411a9fb2"
+  },
   "CrashAssistant-forge-1.19-1.20.1-1.10.26.jar": {
     "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.26.jar",
     "modId": "crash_assistant",
@@ -577,6 +584,20 @@
     "version": "1.8.0",
     "curseForgeHash": 516527841,
     "modrinthHash": "984f774e71790deaec674c7587bd24e0711871b2"
+  },
+  "Oh-The-Biomes-Weve-Gone-Forge-1.7.2.jar": {
+    "jarName": "Oh-The-Biomes-Weve-Gone-Forge-1.7.2.jar",
+    "modId": "biomeswevegone",
+    "version": "1.7.2",
+    "curseForgeHash": 2122265255,
+    "modrinthHash": "72092ae77a8406c3c193de40a49d192bf7d388b3"
+  },
+  "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.4.2.jar": {
+    "jarName": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.4.2.jar",
+    "modId": "ohthetreesyoullgrow",
+    "version": "1.4.2",
+    "curseForgeHash": 1866446875,
+    "modrinthHash": "215d11414c4f9c425efd46b01c4dd1ff8698c217"
   },
   "Patchouli-1.20.1-84.1-FORGE.jar": {
     "jarName": "Patchouli-1.20.1-84.1-FORGE.jar",
