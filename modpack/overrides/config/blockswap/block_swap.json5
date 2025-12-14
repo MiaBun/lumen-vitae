@@ -85,7 +85,11 @@ to make editing this file much easier.
 	   	}
 	*/
 	"swapper": { 
-		"biomesoplenty:cattail": "bloomingnature:cattail",
-		"bloomingnature:reed": "biomesoplenty:reed"
+		"biomesoplenty:cattail": "biomeswevegone:cattail",
+		"bloomingnature:reed": "biomesoplenty:reed",
+		"bloomingnature:beach_grass": "biomeswevegone:beach_grass"
+		"bloomingnature:cattail": "biomeswevegone:cattail",
+		"biomeswevegone:pink_daffodil": "biomesoplenty:pink_daffodil",
+		"biomeswevegone:rose": "biomesoplenty:rose"
 	}
 }

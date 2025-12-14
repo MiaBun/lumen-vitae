@@ -24,7 +24,11 @@
     "naturalist:catfish_spawn_egg",
     "naturalist:elephant_spawn_egg",
     "naturalist:rattlesnake_spawn_egg",
-    "naturalist:snake_spawn_egg"
+    "naturalist:snake_spawn_egg",
+    "bloomingnature:beach_grass",
+    "bloomingnature:cattail",
+    "biomeswevegone:pink_daffodil",
+    "biomeswevegone:rose"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
