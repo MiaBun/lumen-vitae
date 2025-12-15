@@ -90,6 +90,29 @@ to make editing this file much easier.
 		"bloomingnature:beach_grass": "biomeswevegone:beach_grass"
 		"bloomingnature:cattail": "biomeswevegone:cattail",
 		"biomeswevegone:pink_daffodil": "biomesoplenty:pink_daffodil",
-		"biomeswevegone:rose": "biomesoplenty:rose"
+		"biomeswevegone:rose": "biomesoplenty:rose",
+		"biomeswevegone:black_sand": "biomesoplenty:black_sand",
+		"biomeswevegone:black_sandstone": "biomesoplenty:black_sandstone",
+		"biomeswevegone:black_sandstone_stairs": "biomesoplenty:black_sandstone_stairs",
+		"biomeswevegone:black_sandstone_slab": "biomesoplenty:black_sandstone_slab",
+		"biomeswevegone:black_sandstone_wall": "biomesoplenty:black_sandstone_wall",
+		"biomeswevegone:chiseled_black_sandstone": "biomesoplenty:chiseled_black_sandstone",
+		"biomeswevegone:smooth_black_sandstone": "biomesoplenty:smooth_black_sandstone",
+		"biomeswevegone:smooth_black_sandstone_stairs": "biomesoplenty:smooth_black_sandstone_stairs",
+		"biomeswevegone:smooth_black_sandstone_slab": "biomesoplenty:smooth_black_sandstone_slab",
+		"biomeswevegone:cut_black_sandstone": "biomesoplenty:cut_black_sandstone",
+		"biomeswevegone:cut_black_sandstone_slab": "biomesoplenty:cut_black_sandstone_slab",
+		"bloomingnature:quicksand": "biomeswevegone:quicksand",
+		"biomeswevegone:white_sand": "biomesoplenty:white_sand",
+		"biomeswevegone:white_sandstone": "biomesoplenty:white_sandstone",
+		"biomeswevegone:white_sandstone_stairs": "biomesoplenty:white_sandstone_stairs",
+		"biomeswevegone:white_sandstone_slab": "biomesoplenty:white_sandstone_slab",
+		"biomeswevegone:white_sandstone_wall": "biomesoplenty:white_sandstone_wall",
+		"biomeswevegone:chiseled_white_sandstone": "biomesoplenty:chiseled_white_sandstone",
+		"biomeswevegone:smooth_white_sandstone": "biomesoplenty:smooth_white_sandstone",
+		"biomeswevegone:smooth_white_sandstone_stairs": "biomesoplenty:smooth_white_sandstone_stairs",
+		"biomeswevegone:smooth_white_sandstone_slab": "biomesoplenty:smooth_white_sandstone_slab",
+		"biomeswevegone:cut_white_sandstone": "biomesoplenty:cut_white_sandstone",
+		"biomeswevegone:cut_white_sandstone_slab": "biomesoplenty:cut_white_sandstone_slab"
 	}
 }
