@@ -51,7 +51,29 @@
 		"biomeswevegone:smooth_white_sandstone_stairs",
 		"biomeswevegone:smooth_white_sandstone_slab",
 		"biomeswevegone:cut_white_sandstone",
-		"biomeswevegone:cut_white_sandstone_slab"
+		"biomeswevegone:cut_white_sandstone_slab",
+
+    "biomeswevegone:fir_log",
+    "biomeswevegone:fir_wood",
+    "biomeswevegone:stripped_fir_log",
+    "biomeswevegone:stripped_fir_wood",
+    "biomeswevegone:fir_planks",
+    "biomeswevegone:fir_stairs",
+    "biomeswevegone:fir_slab",
+    "biomeswevegone:fir_fence",
+    "biomeswevegone:fir_fence_gate",
+    "biomeswevegone:fir_door",
+    "biomeswevegone:fir_trapdoor",
+    "biomeswevegone:fir_pressure_plate",
+    "biomeswevegone:fir_button",
+    "biomeswevegone:fir_bookshelf",
+    "biomeswevegone:fir_crafting_table",
+    "biomeswevegone:fir_leaves",
+    "biomeswevegone:fir_sapling",
+    "biomeswevegone:fir_sign",
+    "biomeswevegone:fir_hanging_sign",
+    "biomeswevegone:fir_boat",
+    "biomeswevegone:fir_chest_boat"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
