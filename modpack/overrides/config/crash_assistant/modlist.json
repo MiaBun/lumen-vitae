@@ -368,12 +368,12 @@
     "curseForgeHash": 2853914731,
     "modrinthHash": "0584f628d2bc6a612d79dee368324357ebae1423"
   },
-  "fusion-1.2.11a-forge-mc1.20.1.jar": {
-    "jarName": "fusion-1.2.11a-forge-mc1.20.1.jar",
+  "fusion-1.2.11b-forge-mc1.20.1.jar": {
+    "jarName": "fusion-1.2.11b-forge-mc1.20.1.jar",
     "modId": "fusion",
-    "version": "1.2.11+a",
-    "curseForgeHash": 3813388807,
-    "modrinthHash": "d356430ff9fe588998f4b85eb3a6b5b0e57e2b85"
+    "version": "1.2.11+b",
+    "curseForgeHash": 3375382063,
+    "modrinthHash": "b50e441c20e27209950885cf9017ef0c1cefb481"
   },
   "geckolib-forge-1.20.1-4.8.2.jar": {
     "jarName": "geckolib-forge-1.20.1-4.8.2.jar",
