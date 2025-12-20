@@ -114,7 +114,10 @@ to make editing this file much easier.
 		"biomeswevegone:smooth_white_sandstone_slab": "biomesoplenty:smooth_white_sandstone_slab",
 		"biomeswevegone:cut_white_sandstone": "biomesoplenty:cut_white_sandstone",
 		"biomeswevegone:cut_white_sandstone_slab": "biomesoplenty:cut_white_sandstone_slab",
+
 		"biomeswevegone:fir_log": "bloomingnature:fir_log",
-		"biomeswevegone:fir_leaves": "bloomingnature:fir_leaves"
+		"biomeswevegone:fir_leaves": "bloomingnature:fir_leaves",
+
+		"biomesoplenty:maple_leaves": "biomeswevegone:maple_leaves"
 	}
 }

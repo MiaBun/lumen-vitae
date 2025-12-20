@@ -24,7 +24,6 @@ ItemEvents.tooltip(event => {
 
     //biomes o plenty
     event.add('biomesoplenty:fir_sapling', Text.yellow('Abies alba'))
-    event.add('biomesoplenty:maple_sapling', Text.yellow('Acer'))
     event.add('biomesoplenty:origin_sapling', Text.yellow('Arbor'))
     event.add('biomesoplenty:magic_sapling', Text.yellow('Arbor Magica'))
     event.add('biomesoplenty:dead_sapling', Text.yellow('Arbor Mortuus'))
@@ -40,4 +39,10 @@ ItemEvents.tooltip(event => {
     event.add('biomesoplenty:snowblossom_sapling', Text.yellow('Styrax Japonicus'))
     event.add('biomesoplenty:mahogany_sapling', Text.yellow('Swietenia'))
     event.add('biomesoplenty:umbran_sapling', Text.yellow('Umbra Arboris'))
+
+    //oh the biomes we've gone
+    event.add('biomeswevegone:ironwood_sapling', Text.yellow('Acacia melanoxylon'))
+    event.add('biomeswevegone:maple_sapling', Text.yellow('Acer'))
+    event.add('biomeswevegone:red_maple_sapling', Text.yellow('Acer rubrum'))
+    event.add('biomeswevegone:silver_maple_sapling', Text.yellow('Acer saccharinum'))
 })

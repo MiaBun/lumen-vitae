@@ -73,7 +73,10 @@
     "biomeswevegone:fir_sign",
     "biomeswevegone:fir_hanging_sign",
     "biomeswevegone:fir_boat",
-    "biomeswevegone:fir_chest_boat"
+    "biomeswevegone:fir_chest_boat",
+
+    "biomesoplenty:maple_sapling",
+    "biomesoplenty:maple_leaves"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
