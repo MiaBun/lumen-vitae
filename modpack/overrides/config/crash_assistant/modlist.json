@@ -368,12 +368,12 @@
     "curseForgeHash": 2853914731,
     "modrinthHash": "0584f628d2bc6a612d79dee368324357ebae1423"
   },
-  "fusion-1.2.11b-forge-mc1.20.1.jar": {
-    "jarName": "fusion-1.2.11b-forge-mc1.20.1.jar",
+  "fusion-1.2.11c-forge-mc1.20.1.jar": {
+    "jarName": "fusion-1.2.11c-forge-mc1.20.1.jar",
     "modId": "fusion",
-    "version": "1.2.11+b",
-    "curseForgeHash": 3375382063,
-    "modrinthHash": "b50e441c20e27209950885cf9017ef0c1cefb481"
+    "version": "1.2.11+c",
+    "curseForgeHash": 2434900653,
+    "modrinthHash": "f665d7798eee078084585238ec53b745d0093c76"
   },
   "geckolib-forge-1.20.1-4.8.2.jar": {
     "jarName": "geckolib-forge-1.20.1-4.8.2.jar",
@@ -585,12 +585,12 @@
     "curseForgeHash": 516527841,
     "modrinthHash": "984f774e71790deaec674c7587bd24e0711871b2"
   },
-  "Oh-The-Biomes-Weve-Gone-Forge-1.7.2.jar": {
-    "jarName": "Oh-The-Biomes-Weve-Gone-Forge-1.7.2.jar",
+  "Oh-The-Biomes-Weve-Gone-Forge-1.7.3.jar": {
+    "jarName": "Oh-The-Biomes-Weve-Gone-Forge-1.7.3.jar",
     "modId": "biomeswevegone",
-    "version": "1.7.2",
-    "curseForgeHash": 2122265255,
-    "modrinthHash": "72092ae77a8406c3c193de40a49d192bf7d388b3"
+    "version": "1.7.3",
+    "curseForgeHash": 3265205694,
+    "modrinthHash": "f15d325965274bdcd03d2847e8fb2acfbb10eaa8"
   },
   "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.4.2.jar": {
     "jarName": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.4.2.jar",
