@@ -87,7 +87,7 @@ to make editing this file much easier.
 	"swapper": { 
 		"biomesoplenty:cattail": "biomeswevegone:cattail",
 		"bloomingnature:reed": "biomesoplenty:reed",
-		"bloomingnature:beach_grass": "biomeswevegone:beach_grass"
+		"bloomingnature:beach_grass": "biomeswevegone:beach_grass",
 		"bloomingnature:cattail": "biomeswevegone:cattail",
 		"biomeswevegone:pink_daffodil": "biomesoplenty:pink_daffodil",
 		"biomeswevegone:rose": "biomesoplenty:rose",
@@ -115,9 +115,41 @@ to make editing this file much easier.
 		"biomeswevegone:cut_white_sandstone": "biomesoplenty:cut_white_sandstone",
 		"biomeswevegone:cut_white_sandstone_slab": "biomesoplenty:cut_white_sandstone_slab",
 
+		"biomesoplenty:palm_log": "biomeswevegone:palm_log",
+		"biomesoplenty:palm_wood": "biomeswevegone:palm_wood",
+		"biomesoplenty:palm_leaves": "biomeswevegone:palm_leaves",
+
+		"biomesoplenty:mahogany_log": "biomeswevegone:mahogany_log",
+		"biomesoplenty:mahogany_wood": "biomeswevegone:mahogany_wood",
+		"biomesoplenty:mahogany_leaves": "biomeswevegone:mahogany_leaves",
+
+		"biomesoplenty:redwood_log": "biomeswevegone:redwood_log",
+		"biomesoplenty:redwood_leaves": "biomeswevegone:redwood_leaves",
+		"biomesoplenty:redwood_wood": "biomeswevegone:redwood_wood",
+
+		"biomesoplenty:willow_log": "biomeswevegone:willow_log",
+		"biomesoplenty:willow_wood": "biomeswevegone:willow_wood",
+		"biomesoplenty:willow_leaves": "biomeswevegone:willow_leaves",
+		"biomesoplenty:willow_vine": "minecraft:vine",
+
+		"biomesoplenty:jacaranda_log": "biomeswevegone:jacaranda_log",
+		"biomesoplenty:jacaranda_wood": "biomeswevegone:jacaranda_wood",
+		"biomesoplenty:jacaranda_leaves": "biomeswevegone:jacaranda_leaves",
+
 		"biomeswevegone:fir_log": "bloomingnature:fir_log",
 		"biomeswevegone:fir_leaves": "bloomingnature:fir_leaves",
 
-		"biomesoplenty:maple_leaves": "biomeswevegone:maple_leaves"
+		"biomeswevegone:aspen_log": "bloomingnature:aspen_log",
+		"biomeswevegone:aspen_leaves": "bloomingnature:aspen_leaves",
+
+		"biomeswevegone:ebony_log": "bloomingnature:ebony_log",
+		"biomeswevegone:ebony_leaves": "bloomingnature:ebony_leaves",
+
+		"biomesoplenty:maple_leaves": "biomeswevegone:maple_leaves",
+
+		"biomeswevegone:baobab_leaves": "bloomingnature:baobab_leaves",
+		"biomeswevegone:ripe_baobab_leaves": "bloomingnature:baobab_leaves",
+		"biomeswevegone:flowering_baobab_leaves": "bloomingnature:baobab_leaves",
+		"biomeswevegone:baobab_log": "bloomingnature:baobab_log"
 	}
 }
