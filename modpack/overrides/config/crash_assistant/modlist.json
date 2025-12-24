@@ -116,12 +116,12 @@
     "curseForgeHash": 3935389286,
     "modrinthHash": "ad9053d0711da8157f6dbe2cc7083f17fe7aa831"
   },
-  "butterflies-6.6.6.jar": {
-    "jarName": "butterflies-6.6.6.jar",
+  "butterflies-6.8.0.jar": {
+    "jarName": "butterflies-6.8.0.jar",
     "modId": "butterflies",
-    "version": "6.6.6",
-    "curseForgeHash": 3494921388,
-    "modrinthHash": "5f602b76f5ce16b701b9abfbbe980235bf86728e"
+    "version": "6.8.0",
+    "curseForgeHash": 2661712370,
+    "modrinthHash": "d96da49664950608a7dc2e86a81bda267431cc68"
   },
   "carryon-forge-1.20.1-2.1.2.7.jar": {
     "jarName": "carryon-forge-1.20.1-2.1.2.7.jar",
@@ -256,12 +256,12 @@
     "curseForgeHash": 744623401,
     "modrinthHash": "2b19c5c38f88285aed2aad6a61eb622003540ee5"
   },
-  "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar": {
-    "jarName": "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar",
+  "ExtremeSoundMuffler-3.49.2-forge-1.20.1.jar": {
+    "jarName": "ExtremeSoundMuffler-3.49.2-forge-1.20.1.jar",
     "modId": "extremesoundmuffler",
     "version": "3.48",
-    "curseForgeHash": 2994900896,
-    "modrinthHash": "1c7a54e1727f2ae4b1f18e1d7feb94a38e87d00f"
+    "curseForgeHash": 382750826,
+    "modrinthHash": "3b73ae534ff7e4f9c65e78c1f868655a23ab90c7"
   },
   "fancymenu_forge_3.8.1_MC_1.20.1.jar": {
     "jarName": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
