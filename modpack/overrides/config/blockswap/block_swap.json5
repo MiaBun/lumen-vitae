@@ -155,6 +155,7 @@ to make editing this file much easier.
 		"regions_unexplored:barrel_cactus": "bloomingnature:barrel_cactus",
 		"regions_unexplored:cattail": "biomeswevegone:cattail",
 		"biomesoplenty:clover": "regions_unexplored:clover",
-		"bloomingnature:hyssop": "regions_unexplored:hyssop"
+		"bloomingnature:hyssop": "regions_unexplored:hyssop",
+		"biomeswevegone:peat": "regions_unexplored:peat_dirt"
 	}
 }

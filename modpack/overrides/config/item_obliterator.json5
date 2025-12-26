@@ -251,7 +251,8 @@
     "regions_unexplored:barrel_cactus",
     "regions_unexplored:cattail",
     "biomesoplenty:clover",
-    "bloomingnature:hyssop"
+    "bloomingnature:hyssop",
+    "biomeswevegone:peat"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
