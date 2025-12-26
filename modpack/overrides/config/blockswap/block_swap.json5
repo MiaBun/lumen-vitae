@@ -150,6 +150,11 @@ to make editing this file much easier.
 		"biomeswevegone:baobab_leaves": "bloomingnature:baobab_leaves",
 		"biomeswevegone:ripe_baobab_leaves": "bloomingnature:baobab_leaves",
 		"biomeswevegone:flowering_baobab_leaves": "bloomingnature:baobab_leaves",
-		"biomeswevegone:baobab_log": "bloomingnature:baobab_log"
+		"biomeswevegone:baobab_log": "bloomingnature:baobab_log",
+
+		"regions_unexplored:barrel_cactus": "bloomingnature:barrel_cactus",
+		"regions_unexplored:cattail": "biomeswevegone:cattail",
+		"biomesoplenty:clover": "regions_unexplored:clover",
+		"bloomingnature:hyssop": "regions_unexplored:hyssop"
 	}
 }

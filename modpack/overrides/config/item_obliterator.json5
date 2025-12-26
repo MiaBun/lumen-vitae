@@ -246,7 +246,12 @@
     "biomesoplenty:willow_hanging_sign",
     "biomesoplenty:willow_boat",
     "biomesoplenty:willow_chest_boat",
-    "biomesoplenty:willow_vine"
+    "biomesoplenty:willow_vine",
+
+    "regions_unexplored:barrel_cactus",
+    "regions_unexplored:cattail",
+    "biomesoplenty:clover",
+    "bloomingnature:hyssop"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
