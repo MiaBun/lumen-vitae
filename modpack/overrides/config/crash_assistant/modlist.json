@@ -529,12 +529,12 @@
     "curseForgeHash": 2692017579,
     "modrinthHash": "bdc96a4c3dc9a7ec7c2dee235ecdc32e56016433"
   },
-  "moonlight-1.20-2.16.16-forge.jar": {
-    "jarName": "moonlight-1.20-2.16.16-forge.jar",
+  "moonlight-1.20-2.16.18-forge.jar": {
+    "jarName": "moonlight-1.20-2.16.18-forge.jar",
     "modId": "moonlight",
-    "version": "1.20-2.16.16",
-    "curseForgeHash": 949178631,
-    "modrinthHash": "f1ad21bce5a4b96a1152d6cf83cfb27684fc4b6a"
+    "version": "1.20-2.16.18",
+    "curseForgeHash": 4116986064,
+    "modrinthHash": "48dc8e4c200c487df69195fe503dc67493050b6b"
   },
   "MouseTweaks-forge-mc1.20.1-2.25.1.jar": {
     "jarName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
