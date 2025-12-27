@@ -63,7 +63,7 @@
 	toggle_pine_slopes = true
 	toggle_pine_taiga = true
 	toggle_poppy_fields = true
-	toggle_prairie = true
+	toggle_prairie = false
 	toggle_pumpkin_fields = true
 	toggle_rainforest = true
 	toggle_rocky_reef = true
