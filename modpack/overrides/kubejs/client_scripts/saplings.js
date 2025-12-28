@@ -36,7 +36,7 @@ ItemEvents.tooltip(event => {
     event.add('biomesoplenty:umbran_sapling', Text.yellow('Umbra Arboris'))
 
     //oh the biomes we've gone
-    event.add('biomeswevegone:ironwood_sapling', Text.yellow('Acacia melanoxylon'))
+    event.add('biomeswevegone:ironwood_sapling', Text.yellow('Ostrya virginiana'))
     event.add('biomeswevegone:maple_sapling', Text.yellow('Acer'))
     event.add('biomeswevegone:red_maple_sapling', Text.yellow('Acer rubrum'))
     event.add('biomeswevegone:silver_maple_sapling', Text.yellow('Acer saccharinum'))
@@ -76,4 +76,7 @@ ItemEvents.tooltip(event => {
     event.add('biomeswevegone:yucca_sapling', Text.yellow('Yucca'))
     event.add('biomeswevegone:zelkova_sapling', Text.yellow('Zelkova serrata'))
     event.add('biomeswevegone:brown_zelkova_sapling', Text.yellow('Zelkova serrata Makino'))
+
+    //regions unexplored
+    event.add('regions_unexplored:blackwood_sapling', Text.yellow('Acacia melanoxylon'))
 })

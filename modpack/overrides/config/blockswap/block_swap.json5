@@ -142,10 +142,14 @@ to make editing this file much easier.
 		"biomeswevegone:aspen_log": "bloomingnature:aspen_log",
 		"biomeswevegone:aspen_leaves": "bloomingnature:aspen_leaves",
 
+		"regions_unexplored:maple_log": "biomeswevegone:maple_log",
+		"biomeswevegone:maple_leaves": "regions_unexplored:maple_leaves",
+		"regions_unexplored:maple_branch": "minecraft:air",
+
 		"biomeswevegone:ebony_log": "bloomingnature:ebony_log",
 		"biomeswevegone:ebony_leaves": "bloomingnature:ebony_leaves",
 
-		"biomesoplenty:maple_leaves": "biomeswevegone:maple_leaves",
+		"biomesoplenty:maple_leaves": "regions_unexplored:maple_leaves",
 
 		"biomeswevegone:baobab_leaves": "bloomingnature:baobab_leaves",
 		"biomeswevegone:ripe_baobab_leaves": "bloomingnature:baobab_leaves",
