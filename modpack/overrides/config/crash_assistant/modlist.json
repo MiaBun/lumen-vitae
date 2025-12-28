@@ -319,12 +319,12 @@
     "curseForgeHash": 2683111440,
     "modrinthHash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
   },
-  "FramedBlocks-9.4.2.jar": {
-    "jarName": "FramedBlocks-9.4.2.jar",
+  "FramedBlocks-9.4.3.jar": {
+    "jarName": "FramedBlocks-9.4.3.jar",
     "modId": "framedblocks",
-    "version": "9.4.2",
-    "curseForgeHash": 3951488336,
-    "modrinthHash": "68b8301c8124dd00ea70c216066b1fe207e25345"
+    "version": "9.4.3",
+    "curseForgeHash": 380347176,
+    "modrinthHash": "740c0feaab75455f32df7e137389f77c83fb490c"
   },
   "ftb-filter-system-forge-20.0.1.jar": {
     "jarName": "ftb-filter-system-forge-20.0.1.jar",
@@ -536,12 +536,12 @@
     "curseForgeHash": 2692017579,
     "modrinthHash": "bdc96a4c3dc9a7ec7c2dee235ecdc32e56016433"
   },
-  "moonlight-1.20-2.16.18-forge.jar": {
-    "jarName": "moonlight-1.20-2.16.18-forge.jar",
+  "moonlight-1.20-2.16.19-forge.jar": {
+    "jarName": "moonlight-1.20-2.16.19-forge.jar",
     "modId": "moonlight",
-    "version": "1.20-2.16.18",
-    "curseForgeHash": 4116986064,
-    "modrinthHash": "48dc8e4c200c487df69195fe503dc67493050b6b"
+    "version": "1.20-2.16.19",
+    "curseForgeHash": 2861614006,
+    "modrinthHash": "de55e348bdf3a3ac7520fde157654d615967f9b1"
   },
   "MouseTweaks-forge-mc1.20.1-2.25.1.jar": {
     "jarName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
@@ -592,12 +592,12 @@
     "curseForgeHash": 516527841,
     "modrinthHash": "984f774e71790deaec674c7587bd24e0711871b2"
   },
-  "Oh-The-Biomes-Weve-Gone-Forge-1.7.3.jar": {
-    "jarName": "Oh-The-Biomes-Weve-Gone-Forge-1.7.3.jar",
+  "Oh-The-Biomes-Weve-Gone-Forge-1.7.4.jar": {
+    "jarName": "Oh-The-Biomes-Weve-Gone-Forge-1.7.4.jar",
     "modId": "biomeswevegone",
-    "version": "1.7.3",
-    "curseForgeHash": 3265205694,
-    "modrinthHash": "f15d325965274bdcd03d2847e8fb2acfbb10eaa8"
+    "version": "1.7.4",
+    "curseForgeHash": 3226300198,
+    "modrinthHash": "168e2c7f7105bc578e05f0a347856438b5d9f4a6"
   },
   "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.4.2.jar": {
     "jarName": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.4.2.jar",
