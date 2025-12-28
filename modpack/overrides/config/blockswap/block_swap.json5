@@ -115,9 +115,9 @@ to make editing this file much easier.
 		"biomeswevegone:cut_white_sandstone": "biomesoplenty:cut_white_sandstone",
 		"biomeswevegone:cut_white_sandstone_slab": "biomesoplenty:cut_white_sandstone_slab",
 
-		"biomesoplenty:palm_log": "biomeswevegone:palm_log",
-		"biomesoplenty:palm_wood": "biomeswevegone:palm_wood",
-		"biomesoplenty:palm_leaves": "biomeswevegone:palm_leaves",
+		"biomesoplenty:palm_log": "regions_unexplored:palm_log",
+		"biomesoplenty:palm_wood": "regions_unexplored:palm_wood",
+		"biomesoplenty:palm_leaves": "regions_unexplored:palm_leaves",
 
 		"biomesoplenty:mahogany_log": "biomeswevegone:mahogany_log",
 		"biomesoplenty:mahogany_wood": "biomeswevegone:mahogany_wood",
@@ -146,10 +146,22 @@ to make editing this file much easier.
 		"biomeswevegone:maple_leaves": "regions_unexplored:maple_leaves",
 		"regions_unexplored:maple_branch": "minecraft:air",
 
+		"regions_unexplored:baobab_log": "bloomingnature:baobab_log",
+		"regions_unexplored:baobab_leaves": "bloomingnature:baobab_leaves",
+		"regions_unexplored:baobab_branch": "minecraft:air",
+
+		"biomesoplenty:dead_log": "regions_unexplored:dead_log",
+		"biomesoplenty:dead_leaves": "regions_unexplored:dead_leaves",
+		"biomesoplenty:dead_branch": "regions_unexplored:dead_branch",
+
+		"biomeswevegone:palm_log": "regions_unexplored:palm_log",
+		"biomeswevegone:palm_leaves": "regions_unexplored:palm_leaves",
+
 		"biomeswevegone:ebony_log": "bloomingnature:ebony_log",
 		"biomeswevegone:ebony_leaves": "bloomingnature:ebony_leaves",
 
 		"biomesoplenty:maple_leaves": "regions_unexplored:maple_leaves",
+		"biomeswevegone:red_maple_leaves": "regions_unexplored:red_maple_leaves",
 
 		"biomeswevegone:baobab_leaves": "bloomingnature:baobab_leaves",
 		"biomeswevegone:ripe_baobab_leaves": "bloomingnature:baobab_leaves",

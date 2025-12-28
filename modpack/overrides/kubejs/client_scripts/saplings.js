@@ -26,7 +26,6 @@ ItemEvents.tooltip(event => {
     event.add('biomesoplenty:fir_sapling', Text.yellow('Abies alba'))
     event.add('biomesoplenty:origin_sapling', Text.yellow('Arbor'))
     event.add('biomesoplenty:magic_sapling', Text.yellow('Arbor Magica'))
-    event.add('biomesoplenty:dead_sapling', Text.yellow('Arbor Mortuus'))
     event.add('biomesoplenty:rainbow_birch_sapling', Text.yellow('Eucalyptus Degluptia'))
     event.add('biomesoplenty:orange_autumn_sapling', Text.yellow('Liquidambar Styraciflua'))
     event.add('biomesoplenty:yellow_autumn_sapling', Text.yellow('Liriodendron Tulipifera'))
@@ -38,10 +37,8 @@ ItemEvents.tooltip(event => {
     //oh the biomes we've gone
     event.add('biomeswevegone:ironwood_sapling', Text.yellow('Ostrya virginiana'))
     event.add('biomeswevegone:maple_sapling', Text.yellow('Acer'))
-    event.add('biomeswevegone:red_maple_sapling', Text.yellow('Acer rubrum'))
     event.add('biomeswevegone:silver_maple_sapling', Text.yellow('Acer saccharinum'))
     event.add('biomeswevegone:araucaria_sapling', Text.yellow('Araucaria araucana'))
-    event.add('biomeswevegone:palm_sapling', Text.yellow('Arecaceae'))
     event.add('biomeswevegone:yellow_birch_sapling', Text.yellow('Betula alleghaniensis'))
     event.add('biomeswevegone:red_birch_sapling', Text.yellow('Betula occidentalis'))
     event.add('biomeswevegone:orange_birch_sapling', Text.yellow('Betula utilis'))
@@ -79,4 +76,13 @@ ItemEvents.tooltip(event => {
 
     //regions unexplored
     event.add('regions_unexplored:blackwood_sapling', Text.yellow('Acacia melanoxylon'))
+    event.add('regions_unexplored:orange_maple_sapling', Text.yellow('Acer palmatum'))
+    event.add('regions_unexplored:red_maple_sapling', Text.yellow('Acer rubrum'))
+    event.add('regions_unexplored:flowering_sapling', Text.yellow('Angiospermae'))
+    event.add('regions_unexplored:dead_sapling', Text.yellow('Arbor Mortuus'))
+    event.add('regions_unexplored:alpha_sapling', Text.yellow('Arbor vitae'))
+    event.add('regions_unexplored:palm_sapling', Text.yellow('Arecaceae'))
+    event.add('regions_unexplored:apple_oak_sapling', Text.yellow('Atrusca brevipennata'))
+    event.add('regions_unexplored:bamboo_sapling', Text.yellow('Bambusa vulgaris'))
+    event.add('regions_unexplored:silver_birch_sapling', Text.yellow('Betula pendula'))
 })
