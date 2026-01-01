@@ -130,12 +130,12 @@
     "curseForgeHash": 1899432453,
     "modrinthHash": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f"
   },
-  "chisels-and-bits-forge-1.4.148.jar": {
-    "jarName": "chisels-and-bits-forge-1.4.148.jar",
+  "chisels-and-bits-forge-20.1.16.jar": {
+    "jarName": "chisels-and-bits-forge-20.1.16.jar",
     "modId": "chiselsandbits",
-    "version": "1.4.148",
-    "curseForgeHash": 1050479973,
-    "modrinthHash": "bff153dc16b26a0d4f0e8ccc27b2e0fc2dc89355"
+    "version": "20.1.16",
+    "curseForgeHash": 3740975295,
+    "modrinthHash": "62827aff7e80fb76a74d027462fb7f8a8acce649"
   },
   "citadel-2.6.2-1.20.1.jar": {
     "jarName": "citadel-2.6.2-1.20.1.jar",
@@ -158,12 +158,12 @@
     "curseForgeHash": 1243520454,
     "modrinthHash": "97cc669f68dbe812cb77cc3631339334fc28b877"
   },
-  "colorwheel-forge-1.1.1+mc1.20.1.jar": {
-    "jarName": "colorwheel-forge-1.1.1+mc1.20.1.jar",
+  "colorwheel-forge-1.1.2+mc1.20.1.jar": {
+    "jarName": "colorwheel-forge-1.1.2+mc1.20.1.jar",
     "modId": "colorwheel",
-    "version": "1.1.1+mc1.20.1",
-    "curseForgeHash": 3336786010,
-    "modrinthHash": "8ae48d07db5b42a55906e81f86e9eaffc6db0777"
+    "version": "1.1.2+mc1.20.1",
+    "curseForgeHash": 4284935425,
+    "modrinthHash": "08089e16b24756e0ef1e50967dcf2286b20f5923"
   },
   "Controlling-forge-1.20.1-12.0.2.jar": {
     "jarName": "Controlling-forge-1.20.1-12.0.2.jar",
@@ -249,12 +249,12 @@
     "curseForgeHash": 4281946638,
     "modrinthHash": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
   },
-  "entityculling-forge-1.9.4-mc1.20.1.jar": {
-    "jarName": "entityculling-forge-1.9.4-mc1.20.1.jar",
+  "entityculling-forge-1.9.5-mc1.20.1.jar": {
+    "jarName": "entityculling-forge-1.9.5-mc1.20.1.jar",
     "modId": "entityculling",
-    "version": "1.9.4",
-    "curseForgeHash": 744623401,
-    "modrinthHash": "2b19c5c38f88285aed2aad6a61eb622003540ee5"
+    "version": "1.9.5",
+    "curseForgeHash": 538559316,
+    "modrinthHash": "524be2ed63e9f131a17393ead67cd3fddc97ca2b"
   },
   "ExtremeSoundMuffler-3.49.2-forge-1.20.1.jar": {
     "jarName": "ExtremeSoundMuffler-3.49.2-forge-1.20.1.jar",
@@ -690,19 +690,19 @@
     "curseForgeHash": 921691151,
     "modrinthHash": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc"
   },
-  "Xaeros_Minimap_25.2.10_Forge_1.20.jar": {
-    "jarName": "Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+  "Xaeros_Minimap_25.3.2_Forge_1.20.jar": {
+    "jarName": "Xaeros_Minimap_25.3.2_Forge_1.20.jar",
     "modId": "xaerominimap",
-    "version": "25.2.10",
-    "curseForgeHash": 916576203,
-    "modrinthHash": "1f23df114da3a8603dbe4781c07e8acf20f6d1ce"
+    "version": "25.3.2",
+    "curseForgeHash": 912719744,
+    "modrinthHash": "9acd244e79dcac0aa5ec51669993df1575ba13a8"
   },
-  "XaerosWorldMap_1.39.12_Forge_1.20.jar": {
-    "jarName": "XaerosWorldMap_1.39.12_Forge_1.20.jar",
+  "XaerosWorldMap_1.40.2_Forge_1.20.jar": {
+    "jarName": "XaerosWorldMap_1.40.2_Forge_1.20.jar",
     "modId": "xaeroworldmap",
-    "version": "1.39.12",
-    "curseForgeHash": 3696490833,
-    "modrinthHash": "3c4005a400ba8270738bbe4c573526749ecf2f8f"
+    "version": "1.40.2",
+    "curseForgeHash": 2239217147,
+    "modrinthHash": "3b7bee7dd8f3f105bbeef162a475c0d356c02468"
   },
   "xercapaint-1.20.1-1.0.1.jar": {
     "jarName": "xercapaint-1.20.1-1.0.1.jar",
