@@ -119,13 +119,25 @@ to make editing this file much easier.
 		"biomesoplenty:palm_wood": "regions_unexplored:palm_wood",
 		"biomesoplenty:palm_leaves": "regions_unexplored:palm_leaves",
 
+		"regions_unexplored:cypress_log": "biomeswevegone:cypress_log",
+		"regions_unexplored:cypress_leaves": "biomeswevegone:cypress_leaves",
+
+		"biomeswevegone:pine_log": "regions_unexplored:pine_log",
+		"biomeswevegone:pine_leaves": "regions_unexplored:pine_leaves",
+
+		"biomeswevegone:redwood_log": "regions_unexplored:redwood_log",
+		"biomeswevegone:redwood_leaves": "regions_unexplored:redwood_leaves",
+
+		"regions_unexplored:larch_log": "bloomingnature:larch_log",
+		"regions_unexplored:larch_leaves": "bloomingnature:larch_leaves",
+
 		"biomesoplenty:mahogany_log": "biomeswevegone:mahogany_log",
 		"biomesoplenty:mahogany_wood": "biomeswevegone:mahogany_wood",
 		"biomesoplenty:mahogany_leaves": "biomeswevegone:mahogany_leaves",
 
-		"biomesoplenty:redwood_log": "biomeswevegone:redwood_log",
-		"biomesoplenty:redwood_leaves": "biomeswevegone:redwood_leaves",
-		"biomesoplenty:redwood_wood": "biomeswevegone:redwood_wood",
+		"biomesoplenty:redwood_log": "regions_unexplored:redwood_log",
+		"biomesoplenty:redwood_leaves": "regions_unexplored:redwood_leaves",
+		"biomesoplenty:redwood_wood": "regions_unexplored:redwood_wood",
 
 		"biomesoplenty:willow_log": "biomeswevegone:willow_log",
 		"biomesoplenty:willow_wood": "biomeswevegone:willow_wood",
