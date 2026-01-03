@@ -662,6 +662,20 @@
     "curseForgeHash": 2007224494,
     "modrinthHash": "3e142e4a2e12db1c9a3777879cc021aff49da088"
   },
+  "sophisticatedbackpacks-1.20.1-3.24.17.1481.jar": {
+    "jarName": "sophisticatedbackpacks-1.20.1-3.24.17.1481.jar",
+    "modId": "sophisticatedbackpacks",
+    "version": "3.24.17.1481",
+    "curseForgeHash": 1516339918,
+    "modrinthHash": "b9a383522c3296a294138112386322b70ee3a15e"
+  },
+  "sophisticatedcore-1.20.1-1.2.117.1347.jar": {
+    "jarName": "sophisticatedcore-1.20.1-1.2.117.1347.jar",
+    "modId": "sophisticatedcore",
+    "version": "1.2.117.1347",
+    "curseForgeHash": 203125196,
+    "modrinthHash": "3da2d7a6c27f333a71a547076d0379c5295ee4c1"
+  },
   "sound-physics-remastered-forge-1.20.1-1.5.1.jar": {
     "jarName": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
     "modId": "sound_physics_remastered",
