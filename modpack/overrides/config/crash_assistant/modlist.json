@@ -130,12 +130,12 @@
     "curseForgeHash": 1899432453,
     "modrinthHash": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f"
   },
-  "chisels-and-bits-forge-20.1.16.jar": {
-    "jarName": "chisels-and-bits-forge-20.1.16.jar",
+  "chisels-and-bits-forge-20.1.18.jar": {
+    "jarName": "chisels-and-bits-forge-20.1.18.jar",
     "modId": "chiselsandbits",
-    "version": "20.1.16",
-    "curseForgeHash": 3740975295,
-    "modrinthHash": "62827aff7e80fb76a74d027462fb7f8a8acce649"
+    "version": "20.1.18",
+    "curseForgeHash": 2898298957,
+    "modrinthHash": "f9771c3c2dc3071d3980ea6bfdee037de5bbd4ae"
   },
   "citadel-2.6.2-1.20.1.jar": {
     "jarName": "citadel-2.6.2-1.20.1.jar",
