@@ -830,6 +830,206 @@
 			x: -4.5d
 			y: 9.0d
 		}
+		{
+			dependencies: ["00EB473FF81B9914"]
+			description: [
+				"please note that we only included chests and backpacks for the sake of simplicity,"
+				""
+				"these upgraded versions also come in:"
+				""
+				"- shulker box variant"
+				"- barrel variant"
+				""
+				"the barrels also have 4 'unique' versions:"
+				""
+				"- limited (1 slot) these barrels only allow 1 specific item to be stored"
+				"- limited (2 slots) these barrels only allow 2 specific items to be stored"
+				"- limited (3 slots) these barrels only allow 3 specific items to be stored"
+				"- limited (4 slots) these barrels only allow 4 specific items to be stored"
+			]
+			id: "31B614E6FE7AF308"
+			subtitle: "Craft a iron chest"
+			tasks: [{
+				id: "2A98669DC63767CD"
+				item: {
+					Count: 1
+					id: "sophisticatedstorage:iron_chest"
+					tag: {
+						woodType: "oak"
+					}
+				}
+				type: "item"
+			}]
+			title: "first chest upgrade"
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["31B614E6FE7AF308"]
+			id: "3163AE7ED4F97295"
+			subtitle: "Craft a gold chest"
+			tasks: [{
+				id: "7C3FAB7A42B4116E"
+				item: {
+					Count: 1
+					id: "sophisticatedstorage:gold_chest"
+					tag: {
+						woodType: "oak"
+					}
+				}
+				type: "item"
+			}]
+			title: "second chest upgrade"
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3163AE7ED4F97295"]
+			id: "4268094E3B56CF52"
+			subtitle: "Craft a diamond chest"
+			tasks: [{
+				id: "3AC914AD22253E47"
+				item: {
+					Count: 1
+					id: "sophisticatedstorage:diamond_chest"
+					tag: {
+						woodType: "oak"
+					}
+				}
+				type: "item"
+			}]
+			title: "third chest upgrade"
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4268094E3B56CF52"]
+			id: "729B31D3E5CE155F"
+			subtitle: "Craft a netherite chest"
+			tasks: [{
+				id: "383755C3A87201E6"
+				item: {
+					Count: 1
+					id: "sophisticatedstorage:netherite_chest"
+					tag: {
+						woodType: "oak"
+					}
+				}
+				type: "item"
+			}]
+			title: "last chest upgrade"
+			x: 4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["31B614E6FE7AF308"]
+			id: "6DB3154B46F080DE"
+			subtitle: "upgrade modules for your chests"
+			tasks: [{
+				id: "33FA4CCAE86CA92E"
+				item: "sophisticatedstorage:upgrade_base"
+				type: "item"
+			}]
+			title: "the base of your upgrades"
+			x: 7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["31B614E6FE7AF308"]
+			id: "4C44FED41387A40F"
+			subtitle: "this block allows you to link chests and quickly insert into linked chests"
+			tasks: [{
+				id: "7556DB6F04EDA0C1"
+				item: "sophisticatedstorage:controller"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4C44FED41387A40F"]
+			id: "3DBA26962C0FA799"
+			subtitle: "this item allows you to link chests to a storage controller"
+			tasks: [{
+				id: "05881F692679205A"
+				item: "sophisticatedstorage:storage_tool"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6DB3154B46F080DE"]
+			id: "6A407F86A8A9B64A"
+			subtitle: "allows stacks to have a greater amount of items"
+			tasks: [{
+				id: "0768DBE463DE43B3"
+				item: "sophisticatedstorage:stack_upgrade_tier_1"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6A407F86A8A9B64A"]
+			id: "1445369D0F3C9FFE"
+			subtitle: "your first upgrade to the stack upgrade"
+			tasks: [{
+				id: "36710B7AF7DFFCC5"
+				item: "sophisticatedstorage:stack_upgrade_tier_2"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1445369D0F3C9FFE"]
+			id: "7B78BDBB56BCF6B9"
+			subtitle: "your second upgrade to the strack upgrade"
+			tasks: [{
+				id: "2D7514AA16288405"
+				item: "sophisticatedstorage:stack_upgrade_tier_3"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7B78BDBB56BCF6B9"]
+			id: "672EE28587BAFAC4"
+			subtitle: "your third upgrade to the stack upgrade"
+			tasks: [{
+				id: "2799810AC7575F72"
+				item: "sophisticatedstorage:stack_upgrade_tier_4"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["672EE28587BAFAC4"]
+			id: "126D37A4E7AAF0EB"
+			subtitle: "your fourth upgrade to the stack upgrade"
+			tasks: [{
+				id: "7DE66798662F4897"
+				item: "sophisticatedstorage:stack_upgrade_tier_5"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["126D37A4E7AAF0EB"]
+			id: "29E610D1466168FA"
+			subtitle: "your last stack upgrade"
+			tasks: [{
+				id: "2C7D316A446F2D54"
+				item: "sophisticatedstorage:stack_upgrade_omega_tier"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 6.0d
+		}
 	]
 	title: "new beginnings"
 }
