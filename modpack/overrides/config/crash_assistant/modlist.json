@@ -676,6 +676,13 @@
     "curseForgeHash": 203125196,
     "modrinthHash": "3da2d7a6c27f333a71a547076d0379c5295ee4c1"
   },
+  "sophisticatedstorage-1.20.1-1.4.19.1416.jar": {
+    "jarName": "sophisticatedstorage-1.20.1-1.4.19.1416.jar",
+    "modId": "sophisticatedstorage",
+    "version": "1.4.19.1416",
+    "curseForgeHash": 4080689532,
+    "modrinthHash": "c449acc1930fb410d1fcc37c9449e7c236b287fa"
+  },
   "sound-physics-remastered-forge-1.20.1-1.5.1.jar": {
     "jarName": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
     "modId": "sound_physics_remastered",
