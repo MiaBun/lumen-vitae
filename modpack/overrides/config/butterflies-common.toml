@@ -14,4 +14,6 @@
 	enable_lifespan = true
 	#If true, butterflies will pollinate flowers.
 	enable_pollination = true
+	#If true, hostile butterflies will spawn.
+	enable_hostile_butterflies = true
 

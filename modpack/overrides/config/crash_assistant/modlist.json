@@ -116,12 +116,12 @@
     "curseForgeHash": 3935389286,
     "modrinthHash": "ad9053d0711da8157f6dbe2cc7083f17fe7aa831"
   },
-  "butterflies-6.8.0.jar": {
-    "jarName": "butterflies-6.8.0.jar",
+  "butterflies-7.0.0.jar": {
+    "jarName": "butterflies-7.0.0.jar",
     "modId": "butterflies",
-    "version": "6.8.0",
-    "curseForgeHash": 2661712370,
-    "modrinthHash": "d96da49664950608a7dc2e86a81bda267431cc68"
+    "version": "7.0.0",
+    "curseForgeHash": 4115891535,
+    "modrinthHash": "b23702873fc3fcf21e77b3d14b21b0c07e7d5db7"
   },
   "carryon-forge-1.20.1-2.1.2.7.jar": {
     "jarName": "carryon-forge-1.20.1-2.1.2.7.jar",
@@ -130,12 +130,12 @@
     "curseForgeHash": 1899432453,
     "modrinthHash": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f"
   },
-  "chisels-and-bits-forge-20.1.18.jar": {
-    "jarName": "chisels-and-bits-forge-20.1.18.jar",
+  "chisels-and-bits-forge-20.1.19.jar": {
+    "jarName": "chisels-and-bits-forge-20.1.19.jar",
     "modId": "chiselsandbits",
-    "version": "20.1.18",
-    "curseForgeHash": 2898298957,
-    "modrinthHash": "f9771c3c2dc3071d3980ea6bfdee037de5bbd4ae"
+    "version": "20.1.19",
+    "curseForgeHash": 1161336211,
+    "modrinthHash": "fe004664473d8bf1f236c5d6fe4830d623a045b6"
   },
   "citadel-2.6.2-1.20.1.jar": {
     "jarName": "citadel-2.6.2-1.20.1.jar",
@@ -298,12 +298,12 @@
     "curseForgeHash": 2325891344,
     "modrinthHash": "036137a54b8f503794cf38296ff4c7fbf2e9d5cc"
   },
-  "FastSuite-1.20.1-5.1.0.jar": {
-    "jarName": "FastSuite-1.20.1-5.1.0.jar",
+  "FastSuite-1.20.1-5.1.1.jar": {
+    "jarName": "FastSuite-1.20.1-5.1.1.jar",
     "modId": "fastsuite",
-    "version": "5.1.0",
-    "curseForgeHash": 2667792324,
-    "modrinthHash": "3a759dce0ddc91e299027faa800c0ee40ab90de8"
+    "version": "5.1.1",
+    "curseForgeHash": 4161769711,
+    "modrinthHash": "dfceb81524a9e1be19bf89d0281c05b6edf5326c"
   },
   "FastWorkbench-1.20.1-8.0.4.jar": {
     "jarName": "FastWorkbench-1.20.1-8.0.4.jar",
@@ -718,12 +718,12 @@
     "curseForgeHash": 249085215,
     "modrinthHash": "6fe3d41ca625d2f8caa1163d98b6b22819d79c83"
   },
-  "xaeroworldmap-forge-1.20.1-1.40.4.jar": {
-    "jarName": "xaeroworldmap-forge-1.20.1-1.40.4.jar",
+  "xaeroworldmap-forge-1.20.1-1.40.6.jar": {
+    "jarName": "xaeroworldmap-forge-1.20.1-1.40.6.jar",
     "modId": "xaeroworldmap",
-    "version": "1.40.4",
-    "curseForgeHash": 4122775460,
-    "modrinthHash": "333bc915684f6c8e7faf7432e69489c9b5128e9d"
+    "version": "1.40.6",
+    "curseForgeHash": 268219548,
+    "modrinthHash": "a401e889018962bf2b99f2020e192329c3709c96"
   },
   "xercapaint-1.20.1-1.0.1.jar": {
     "jarName": "xercapaint-1.20.1-1.0.1.jar",
