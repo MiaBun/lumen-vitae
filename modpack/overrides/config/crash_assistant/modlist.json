@@ -711,6 +711,13 @@
     "curseForgeHash": 1016895938,
     "modrinthHash": "9ab9dd5ffed81cbb547facf2849920af99bf96c3"
   },
+  "suppsquared-1.20-1.1.28.jar": {
+    "jarName": "suppsquared-1.20-1.1.28.jar",
+    "modId": "suppsquared",
+    "version": "1.20-1.1.28",
+    "curseForgeHash": 3696326942,
+    "modrinthHash": "fce110da725de7754d524d0fb61aed1bd7dac448"
+  },
   "TerraBlender-forge-1.20.1-3.0.1.10.jar": {
     "jarName": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
     "modId": "terrablender",
