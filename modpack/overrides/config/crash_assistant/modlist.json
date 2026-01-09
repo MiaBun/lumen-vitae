@@ -25,12 +25,12 @@
     "curseForgeHash": 1225915087,
     "modrinthHash": "3c43c2e76093dc7ef5ad6e456d20da9674c653aa"
   },
-  "AmbientSounds_FORGE_v6.3.1_mc1.20.1.jar": {
-    "jarName": "AmbientSounds_FORGE_v6.3.1_mc1.20.1.jar",
+  "AmbientSounds_FORGE_v6.3.3_mc1.20.1.jar": {
+    "jarName": "AmbientSounds_FORGE_v6.3.3_mc1.20.1.jar",
     "modId": "ambientsounds",
-    "version": "6.3.1",
-    "curseForgeHash": 1168047345,
-    "modrinthHash": "b6c676fbe4e586de6c266190943c069a0a49104d"
+    "version": "6.3.3",
+    "curseForgeHash": 1083459992,
+    "modrinthHash": "b4a0e4937db9c83ec82a6809f8d53ab2b9e7a62c"
   },
   "amendments-1.20-2.2.3.jar": {
     "jarName": "amendments-1.20-2.2.3.jar",
@@ -536,12 +536,12 @@
     "curseForgeHash": 2692017579,
     "modrinthHash": "bdc96a4c3dc9a7ec7c2dee235ecdc32e56016433"
   },
-  "moonlight-1.20-2.16.19-forge.jar": {
-    "jarName": "moonlight-1.20-2.16.19-forge.jar",
+  "moonlight-1.20-2.16.21-forge.jar": {
+    "jarName": "moonlight-1.20-2.16.21-forge.jar",
     "modId": "moonlight",
-    "version": "1.20-2.16.19",
-    "curseForgeHash": 2861614006,
-    "modrinthHash": "de55e348bdf3a3ac7520fde157654d615967f9b1"
+    "version": "1.20-2.16.21",
+    "curseForgeHash": 831958052,
+    "modrinthHash": "81054a1ec290b7a5263c60d3ab8fa73005b79274"
   },
   "MouseTweaks-forge-mc1.20.1-2.25.1.jar": {
     "jarName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
@@ -704,12 +704,12 @@
     "curseForgeHash": 3386940382,
     "modrinthHash": "3a14160106a66c54ce47c5e26d8a20c70b44d4c1"
   },
-  "supplementaries-1.20-3.1.41.jar": {
-    "jarName": "supplementaries-1.20-3.1.41.jar",
+  "supplementaries-1.20-3.1.42-forge.jar": {
+    "jarName": "supplementaries-1.20-3.1.42-forge.jar",
     "modId": "supplementaries",
-    "version": "1.20-3.1.41",
-    "curseForgeHash": 1016895938,
-    "modrinthHash": "9ab9dd5ffed81cbb547facf2849920af99bf96c3"
+    "version": "1.20-3.1.42",
+    "curseForgeHash": 2911967421,
+    "modrinthHash": "c9e2f6c813eef73843d869ff5611f155af7467fb"
   },
   "suppsquared-1.20-1.1.28.jar": {
     "jarName": "suppsquared-1.20-1.1.28.jar",
