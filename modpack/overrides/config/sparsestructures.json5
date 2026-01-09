@@ -21,6 +21,14 @@
       "structure": "minecraft:swamp_huts",
       "factor": 0
     },
+    {
+      "structure": "dungeons_arise:major_structures",
+      "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+    },
+    {
+      "structure": "dungeons_arise:minor_structures",
+      "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+    },
     // add the structures you want to modify in the format:
     // (don't forget to remove "//", and use dots for decimal numbers)
     //
