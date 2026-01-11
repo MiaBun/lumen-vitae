@@ -2,6 +2,14 @@
   "framedblocks": {
     "framed_item_frame": true
   },
+  "eclipticseasons": {
+    "greenhouse_core": true,
+    "animal": true,
+    "cauldron": true,
+    "crop": true,
+    "snowy_status": true,
+    "crop.shift_hint": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,

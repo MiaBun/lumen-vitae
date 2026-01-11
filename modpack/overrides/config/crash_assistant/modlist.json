@@ -270,6 +270,13 @@
     "curseForgeHash": 3352033021,
     "modrinthHash": "97690e4039eb71258892edde8b2da8661dffbf5c"
   },
+  "EclipticSeasons-1.20.1-forge-0.12.5.9.0.0.1-all.jar": {
+    "jarName": "EclipticSeasons-1.20.1-forge-0.12.5.9.0.0.1-all.jar",
+    "modId": "eclipticseasons",
+    "version": "0.12.5.9.0.0.1",
+    "curseForgeHash": 4142081399,
+    "modrinthHash": "1cac3c3d3deb524745f1276ef5ca1415b7d37073"
+  },
   "embeddium-0.3.31+mc1.20.1.jar": {
     "jarName": "embeddium-0.3.31+mc1.20.1.jar",
     "modId": "embeddium",
