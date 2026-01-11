@@ -704,19 +704,19 @@
     "curseForgeHash": 163980409,
     "modrinthHash": "4accb2fa35b90a65908c79e97c1830150aef73b6"
   },
-  "sophisticatedcore-1.20.1-1.2.117.1347.jar": {
-    "jarName": "sophisticatedcore-1.20.1-1.2.117.1347.jar",
+  "sophisticatedcore-1.20.1-1.2.118.1357.jar": {
+    "jarName": "sophisticatedcore-1.20.1-1.2.118.1357.jar",
     "modId": "sophisticatedcore",
-    "version": "1.2.117.1347",
-    "curseForgeHash": 203125196,
-    "modrinthHash": "3da2d7a6c27f333a71a547076d0379c5295ee4c1"
+    "version": "1.2.118.1357",
+    "curseForgeHash": 125906161,
+    "modrinthHash": "b8a60ec16a42e7183e93f3ba04621948000c003e"
   },
-  "sophisticatedstorage-1.20.1-1.4.19.1416.jar": {
-    "jarName": "sophisticatedstorage-1.20.1-1.4.19.1416.jar",
+  "sophisticatedstorage-1.20.1-1.4.20.1423.jar": {
+    "jarName": "sophisticatedstorage-1.20.1-1.4.20.1423.jar",
     "modId": "sophisticatedstorage",
-    "version": "1.4.19.1416",
-    "curseForgeHash": 4080689532,
-    "modrinthHash": "c449acc1930fb410d1fcc37c9449e7c236b287fa"
+    "version": "1.4.20.1423",
+    "curseForgeHash": 3179264154,
+    "modrinthHash": "d25837b01ca64cefde68d9dc059600abccee1a87"
   },
   "sound-physics-remastered-forge-1.20.1-1.5.1.jar": {
     "jarName": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
@@ -746,12 +746,12 @@
     "curseForgeHash": 2911967421,
     "modrinthHash": "c9e2f6c813eef73843d869ff5611f155af7467fb"
   },
-  "suppsquared-1.20-1.1.28.jar": {
-    "jarName": "suppsquared-1.20-1.1.28.jar",
+  "suppsquared-1.20-1.1.29.jar": {
+    "jarName": "suppsquared-1.20-1.1.29.jar",
     "modId": "suppsquared",
-    "version": "1.20-1.1.28",
-    "curseForgeHash": 3696326942,
-    "modrinthHash": "fce110da725de7754d524d0fb61aed1bd7dac448"
+    "version": "1.20-1.1.29",
+    "curseForgeHash": 1958178028,
+    "modrinthHash": "4072bbc6dd84f76006fb71a0c22103e849a03e77"
   },
   "tectonic-3.0.17-forge-1.20.1.jar": {
     "jarName": "tectonic-3.0.17-forge-1.20.1.jar",
