@@ -3,9 +3,60 @@
 	default_quest_shape: ""
 	filename: "basic_farming_and_cooking"
 	group: "5117C8F14FA1129E"
+	hide_quest_until_deps_complete: true
+	hide_quest_until_deps_visible: true
+	icon: "minecraft:wheat_seeds"
 	id: "42A585C837C9684D"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["072853773F7E87E4"]
+		description: [
+			"you might've noticed that crops now tell you what season and humidity they can grow in:"
+			"every 7 days introduces a new seasonal phase ranging from:"
+			"- beginning of spring"
+			"- rain water"
+			"- insects awakening"
+			"- spring equinox"
+			"- fresh green"
+			"- grain rain"
+			"- beginning of summer"
+			"- lesser fullness"
+			"- grain in ear"
+			"- summer solstice"
+			"- lesser heat"
+			"- greater heat"
+			"- beginning of autumn"
+			"- end of heat"
+			"- white dew"
+			"- autumnal equinox"
+			"- cold dew"
+			"- first frost"
+			"- beginning of winter"
+			"- light snow"
+			"- heavy snow"
+			"- winter solstice"
+			"- lesser cold"
+			"- greater cold"
+			""
+			"these all impact crop growth and if it rains or snows"
+			"besides this you also have humidity:"
+			""
+			"- arid"
+			"- dry"
+			"- average"
+			"- moist"
+			"- humid"
+		]
+		id: "0EE97DF3FF5CE46D"
+		subtitle: "farming for beginners...."
+		tasks: [{
+			id: "04155D68DFB93264"
+			title: "seasons"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
 	title: "basic farming and cooking"
 }

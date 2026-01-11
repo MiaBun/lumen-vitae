@@ -227,7 +227,12 @@
 		}
 		{
 			dependencies: ["0E60C539953373C9"]
+			description: [
+				"now that you've crafted your stone hoe you can continue to tthe next chapter: \"Basic farming and cooking\""
+				"this chapter will go through the basics on how to farm, how seasons work, how rats work and more!"
+			]
 			id: "072853773F7E87E4"
+			subtitle: "i think you're now ready to farm"
 			tasks: [{
 				id: "04326C7513B75175"
 				item: {
