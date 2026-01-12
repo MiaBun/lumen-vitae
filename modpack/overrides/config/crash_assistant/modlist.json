@@ -305,6 +305,13 @@
     "curseForgeHash": 3141943045,
     "modrinthHash": "1fef1d8ab0dc2dec116bc6d6cb6f789fd33b23b0"
   },
+  "FarmersDelight-1.20.1-1.2.9.jar": {
+    "jarName": "FarmersDelight-1.20.1-1.2.9.jar",
+    "modId": "farmersdelight",
+    "version": "1.20.1-1.2.9",
+    "curseForgeHash": 4034486801,
+    "modrinthHash": "ca9417c369e75d38dacdac59937223e5f6adcc18"
+  },
   "fastboot-1.20.x-1.2.jar": {
     "jarName": "fastboot-1.20.x-1.2.jar",
     "modId": "fastboot",
