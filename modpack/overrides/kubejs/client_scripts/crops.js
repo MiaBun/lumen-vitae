@@ -20,4 +20,9 @@ ItemEvents.tooltip(event => {
     event.add('minecraft:carrot', Text.yellow('Daucus Carota'))
     event.add('minecraft:apple', Text.yellow('Malus Domestica'))
     event.add('minecraft:potato', Text.yellow('Solanum Tuberosum'))
+
+    event.add('farmersdelight:onion', Text.yellow('Allium Cepa'))
+    event.add('farmersdelight:tomato_seeds', Text.yellow('Solanum lycopersicum'))
+    event.add('farmersdelight:rice', Text.yellow('Oryza sativa'))
+    event.add('farmersdelight:cabbage_seeds', Text.yellow('Brassica oleracea var. capitat'))
 })

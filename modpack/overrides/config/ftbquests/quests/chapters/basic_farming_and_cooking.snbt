@@ -9,54 +9,108 @@
 	id: "42A585C837C9684D"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		dependencies: ["072853773F7E87E4"]
-		description: [
-			"you might've noticed that crops now tell you what season and humidity they can grow in:"
-			"every 7 days introduces a new seasonal phase ranging from:"
-			"- beginning of spring"
-			"- rain water"
-			"- insects awakening"
-			"- spring equinox"
-			"- fresh green"
-			"- grain rain"
-			"- beginning of summer"
-			"- lesser fullness"
-			"- grain in ear"
-			"- summer solstice"
-			"- lesser heat"
-			"- greater heat"
-			"- beginning of autumn"
-			"- end of heat"
-			"- white dew"
-			"- autumnal equinox"
-			"- cold dew"
-			"- first frost"
-			"- beginning of winter"
-			"- light snow"
-			"- heavy snow"
-			"- winter solstice"
-			"- lesser cold"
-			"- greater cold"
-			""
-			"these all impact crop growth and if it rains or snows"
-			"besides this you also have humidity:"
-			""
-			"- arid"
-			"- dry"
-			"- average"
-			"- moist"
-			"- humid"
-		]
-		id: "0EE97DF3FF5CE46D"
-		subtitle: "farming for beginners...."
-		tasks: [{
-			id: "04155D68DFB93264"
-			title: "seasons"
-			type: "checkmark"
-		}]
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			dependencies: ["072853773F7E87E4"]
+			description: [
+				"you might've noticed that crops now tell you what season and humidity they can grow in:"
+				"every 7 days introduces a new seasonal phase ranging from:"
+				"- beginning of spring"
+				"- rain water"
+				"- insects awakening"
+				"- spring equinox"
+				"- fresh green"
+				"- grain rain"
+				"- beginning of summer"
+				"- lesser fullness"
+				"- grain in ear"
+				"- summer solstice"
+				"- lesser heat"
+				"- greater heat"
+				"- beginning of autumn"
+				"- end of heat"
+				"- white dew"
+				"- autumnal equinox"
+				"- cold dew"
+				"- first frost"
+				"- beginning of winter"
+				"- light snow"
+				"- heavy snow"
+				"- winter solstice"
+				"- lesser cold"
+				"- greater cold"
+				""
+				"these all impact crop growth and if it rains or snows"
+				"besides this you also have humidity:"
+				""
+				"- arid"
+				"- dry"
+				"- average"
+				"- moist"
+				"- humid"
+			]
+			id: "0EE97DF3FF5CE46D"
+			subtitle: "farming for beginners...."
+			tasks: [{
+				id: "04155D68DFB93264"
+				title: "seasons"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0EE97DF3FF5CE46D"]
+			id: "27EA8F4FBEE61BDA"
+			subtitle: "this will allow you to cut food into ingredients"
+			tasks: [
+				{
+					id: "75BB646C153FDECB"
+					item: "farmersdelight:cutting_board"
+					type: "item"
+				}
+				{
+					id: "13C85CA551C8143C"
+					item: {
+						Count: 1
+						id: "farmersdelight:iron_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft a Cutting board + Knife"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27EA8F4FBEE61BDA"]
+			id: "7C02945B332CFB1D"
+			subtitle: "this is basically a upgraded furnace, it will allow you to cook food"
+			tasks: [{
+				id: "3A8DD2BD4DF390F2"
+				item: "farmersdelight:stove"
+				type: "item"
+			}]
+			title: "Craft a stove"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C02945B332CFB1D"]
+			id: "1513FCC10A3410BD"
+			subtitle: "placing this above a heat source like a campfire or stove allows you make more complex recipes."
+			tasks: [{
+				id: "641FEFE4B7FEF90B"
+				item: "farmersdelight:cooking_pot"
+				type: "item"
+			}]
+			title: "Craft a cooking pot"
+			x: 4.5d
+			y: 0.0d
+		}
+	]
 	title: "basic farming and cooking"
 }

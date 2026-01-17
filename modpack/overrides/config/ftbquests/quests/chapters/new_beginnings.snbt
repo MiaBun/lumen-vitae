@@ -11,6 +11,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["09C1795A92244855"]
 			id: "53BBA99EAE29C2EE"
 			tasks: [{
 				icon: "minecraft:oak_log"
@@ -1034,6 +1035,33 @@
 			}]
 			x: 16.5d
 			y: 6.0d
+		}
+		{
+			description: [
+				"this modpack includes JEI,"
+				"Jei allows you to see and search for recipes, in your inventory you'll on the right see a extra menu with every item in this modpack."
+				""
+				"some basic knowledge:"
+				""
+				"- you can search for a specific item using the search bar (under the right menu), using @{name} will allow you to search for a specific mod example: @minecraft, using ${search} will allow you to search for a specific tag example: $crops"
+				""
+				"- pressing by default 'a' this can be changed in keybinds, whilst hovering over a item allows you to bookmark this item, this item will now show up in a menu on the left, to remove the bookmark just press 'a' again when hovering over said item."
+				""
+				"- left clicking a item allows you to see it's crafting recipe, this for the most part also includes recipes from mods like the cookpot from farmer's delight."
+				""
+				"- right clicking a item allows you to see recipes the item is used in."
+				""
+				"- right clicking on a crafting method for example the furnace, crafting recipe, etc allows you to view all it's supported recipes."
+			]
+			id: "09C1795A92244855"
+			subtitle: "some basic tips"
+			tasks: [{
+				id: "31A00047163A5FAB"
+				title: "Basic knowledge"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
 		}
 	]
 	title: "new beginnings"
