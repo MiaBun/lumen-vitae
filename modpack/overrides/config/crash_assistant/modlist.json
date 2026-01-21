@@ -144,12 +144,12 @@
     "curseForgeHash": 1161336211,
     "modrinthHash": "fe004664473d8bf1f236c5d6fe4830d623a045b6"
   },
-  "citadel-2.6.2-1.20.1.jar": {
-    "jarName": "citadel-2.6.2-1.20.1.jar",
+  "citadel-2.6.3-1.20.1.jar": {
+    "jarName": "citadel-2.6.3-1.20.1.jar",
     "modId": "citadel",
-    "version": "2.6.2",
-    "curseForgeHash": 633471506,
-    "modrinthHash": "06866f4005d3f6ba63ac01f715b352842d809bbd"
+    "version": "2.6.3",
+    "curseForgeHash": 1762571121,
+    "modrinthHash": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316"
   },
   "cloth-config-11.1.136-forge.jar": {
     "jarName": "cloth-config-11.1.136-forge.jar",
@@ -165,12 +165,12 @@
     "curseForgeHash": 1243520454,
     "modrinthHash": "97cc669f68dbe812cb77cc3631339334fc28b877"
   },
-  "colorwheel-forge-1.2.0+mc1.20.1.jar": {
-    "jarName": "colorwheel-forge-1.2.0+mc1.20.1.jar",
+  "colorwheel-forge-1.2.1+mc1.20.1.jar": {
+    "jarName": "colorwheel-forge-1.2.1+mc1.20.1.jar",
     "modId": "colorwheel",
-    "version": "1.2.0+mc1.20.1",
-    "curseForgeHash": 3577450487,
-    "modrinthHash": "b4caaa01971dd398d4d6112a896eea6db856c971"
+    "version": "1.2.1+mc1.20.1",
+    "curseForgeHash": 4138397164,
+    "modrinthHash": "791578afecd261f0d03669db993b35d14badc1a9"
   },
   "Controlling-forge-1.20.1-12.0.2.jar": {
     "jarName": "Controlling-forge-1.20.1-12.0.2.jar",
@@ -648,12 +648,12 @@
     "curseForgeHash": 3226300198,
     "modrinthHash": "168e2c7f7105bc578e05f0a347856438b5d9f4a6"
   },
-  "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.4.2.jar": {
-    "jarName": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.4.2.jar",
+  "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.5.0.jar": {
+    "jarName": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.5.0.jar",
     "modId": "ohthetreesyoullgrow",
-    "version": "1.4.2",
-    "curseForgeHash": 1866446875,
-    "modrinthHash": "215d11414c4f9c425efd46b01c4dd1ff8698c217"
+    "version": "1.5.0",
+    "curseForgeHash": 3491630147,
+    "modrinthHash": "d3d37fdba1a4fb69df9680c21fc2480cc2555d38"
   },
   "Patchouli-1.20.1-84.1-FORGE.jar": {
     "jarName": "Patchouli-1.20.1-84.1-FORGE.jar",
@@ -718,19 +718,19 @@
     "curseForgeHash": 3103771935,
     "modrinthHash": "215e40a816cb6fdba78a8dee624c1a5a1ba807d6"
   },
-  "sophisticatedcore-1.20.1-1.2.119.1369.jar": {
-    "jarName": "sophisticatedcore-1.20.1-1.2.119.1369.jar",
+  "sophisticatedcore-1.20.1-1.2.122.1415.jar": {
+    "jarName": "sophisticatedcore-1.20.1-1.2.122.1415.jar",
     "modId": "sophisticatedcore",
-    "version": "1.2.119.1369",
-    "curseForgeHash": 907691421,
-    "modrinthHash": "86d8fa869a8d89f7d1a05f2714e4faf0821ebc9a"
+    "version": "1.2.122.1415",
+    "curseForgeHash": 1393743564,
+    "modrinthHash": "e5c0bf2aecc4ccec0d6bc610ec17ee004f823917"
   },
-  "sophisticatedstorage-1.20.1-1.4.20.1423.jar": {
-    "jarName": "sophisticatedstorage-1.20.1-1.4.20.1423.jar",
+  "sophisticatedstorage-1.20.1-1.4.21.1446.jar": {
+    "jarName": "sophisticatedstorage-1.20.1-1.4.21.1446.jar",
     "modId": "sophisticatedstorage",
-    "version": "1.4.20.1423",
-    "curseForgeHash": 3179264154,
-    "modrinthHash": "d25837b01ca64cefde68d9dc059600abccee1a87"
+    "version": "1.4.21.1446",
+    "curseForgeHash": 3130289274,
+    "modrinthHash": "531ac0792b0bcc77fccc526697269a44356d0c67"
   },
   "sound-physics-remastered-forge-1.20.1-1.5.1.jar": {
     "jarName": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
