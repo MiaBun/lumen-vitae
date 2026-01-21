@@ -221,6 +221,13 @@
     "curseForgeHash": 3069885784,
     "modrinthHash": "2f1e69f8c2df17459aff94762dbf197301e67d95"
   },
+  "Croptopia-1.20.1-FORGE-3.0.4.jar": {
+    "jarName": "Croptopia-1.20.1-FORGE-3.0.4.jar",
+    "modId": "croptopia",
+    "version": "3.0.4",
+    "curseForgeHash": 4197678212,
+    "modrinthHash": "2008e6887b9490c491ddb471e87cfb6d26684dc5"
+  },
   "CTM-1.20.1-1.1.10.jar": {
     "jarName": "CTM-1.20.1-1.1.10.jar",
     "modId": "ctm",
@@ -290,6 +297,13 @@
     "version": "1.9.5",
     "curseForgeHash": 538559316,
     "modrinthHash": "524be2ed63e9f131a17393ead67cd3fddc97ca2b"
+  },
+  "EpheroLib-1.20.1-FORGE-1.2.0.jar": {
+    "jarName": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+    "modId": "epherolib",
+    "version": "0.1.2",
+    "curseForgeHash": 1652112087,
+    "modrinthHash": "1eca21b906d38321bf60919dd3b12d160e5e6935"
   },
   "ExtremeSoundMuffler-3.51-forge-1.20.1.jar": {
     "jarName": "ExtremeSoundMuffler-3.51-forge-1.20.1.jar",
